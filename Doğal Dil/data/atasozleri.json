@@ -1,0 +1,3612 @@
+{
+    "atasozleri": [
+        {
+            "metin": "Abdal düğünden, çocuk oyundan usanmaz",
+            "kategori": "davranış",
+            "anlam": "İnsanlar sevdikleri işten bıkmazlar."
+        },
+        {
+            "metin": "Acele işe şeytan karışır",
+            "kategori": "davranış",
+            "anlam": "İşler acele yapılırsa hata yapılır."
+        },
+        {
+            "metin": "Aç ayı oynamaz",
+            "kategori": "ihtiyaç",
+            "anlam": "Temel ihtiyaçlar karşılanmadan başka işler yapılamaz."
+        },
+        {
+            "metin": "Aç kurt bile komşusunu dalamaz",
+            "kategori": "davranış",
+            "anlam": "En zor durumda bile komşuya zarar verilmez."
+        },
+        {
+            "metin": "Aç tavuk kendini buğday ambarında sanır",
+            "kategori": "davranış",
+            "anlam": "İnsanlar ihtiyaç duydukları şeyleri her yerde görürler."
+        },
+        {
+            "metin": "Ağaç yaşken eğilir",
+            "kategori": "eğitim",
+            "anlam": "İnsanlar küçük yaşta kolay eğitilir."
+        },
+        {
+            "metin": "Ağır otur ki batman gelesin",
+            "kategori": "davranış",
+            "anlam": "Ağırbaşlı ol ki saygı göresin."
+        },
+        {
+            "metin": "Akıl akıldan üstündür",
+            "kategori": "bilgelik",
+            "anlam": "Herkesin farklı düşünceleri olabilir."
+        },
+        {
+            "metin": "Akıl için yol birdir",
+            "kategori": "bilgelik",
+            "anlam": "Doğru düşünenler aynı sonuca varır."
+        },
+        {
+            "metin": "Akıl kişiye sermayedir",
+            "kategori": "bilgelik",
+            "anlam": "En değerli varlık akıldır."
+        },
+        {
+            "metin": "Akıl olmayınca başta, ne kuruda biter ne yaşta",
+            "kategori": "bilgelik",
+            "anlam": "Akılsız kişi hiçbir işte başarılı olamaz."
+        },
+        {
+            "metin": "Akıl yaşta değil baştadır",
+            "kategori": "bilgelik",
+            "anlam": "Akıl yaşla değil, düşünmeyle gelir."
+        },
+        {
+            "metin": "Akıllı düşman, akılsız dosttan hayırlıdır",
+            "kategori": "bilgelik",
+            "anlam": "Akılsız dost, akıllı düşmandan daha çok zarar verir."
+        },
+        {
+            "metin": "Akıllı oğlan neyler ata malını, akılsız oğlan neyler ata malını",
+            "kategori": "bilgelik",
+            "anlam": "Akıllı kişi mirasa ihtiyaç duymaz, akılsız kişi mirası değerlendiremez."
+        },
+        {
+            "metin": "Akılsız başın cezasını ayaklar çeker",
+            "kategori": "bilgelik",
+            "anlam": "Düşüncesizce yapılan işlerin sonuçlarına katlanılır."
+        },
+        {
+            "metin": "Alçak yerde tepecik kendini dağ sanır",
+            "kategori": "davranış",
+            "anlam": "Değersiz kişiler kendilerini önemli sanırlar."
+        },
+        {
+            "metin": "Alışmış kudurmuştan beterdir",
+            "kategori": "davranış",
+            "anlam": "Alışkanlıklar değiştirilmesi zor şeylerdir."
+        },
+        {
+            "metin": "Allah bilir ama kul da sezer",
+            "kategori": "bilgelik",
+            "anlam": "Her şeyi Allah bilir ama insanlar da anlayabilir."
+        },
+        {
+            "metin": "Allah gümüş kapıyı kaparsa altın kapıyı açar",
+            "kategori": "inanç",
+            "anlam": "Bir fırsat kapanırsa başka bir fırsat açılır."
+        },
+        {
+            "metin": "Allah sağ eli sol ele muhtaç etmesin",
+            "kategori": "davranış",
+            "anlam": "İnsan başkasına muhtaç olmamalıdır."
+        },
+        {
+            "metin": "Allah'ın bildiği kuldan saklanmaz",
+            "kategori": "inanç",
+            "anlam": "Hiçbir şey Allah'tan gizli kalmaz."
+        },
+        {
+            "metin": "Altın eşik, gümüş eşik, eve girer aşık",
+            "kategori": "aşk",
+            "anlam": "Aşk her kapıyı açar."
+        },
+        {
+            "metin": "Altın yere düşmekle pul olmaz",
+            "kategori": "değer",
+            "anlam": "Değerli şeyler durum değişse bile değerini kaybetmez."
+        },
+        {
+            "metin": "Aman diyene kılıç kalkmaz",
+            "kategori": "davranış",
+            "anlam": "Merhamet isteyene zarar verilmez."
+        },
+        {
+            "metin": "Anasına bak kızını al, kenarına bak bezini al",
+            "kategori": "davranış",
+            "anlam": "Bir kişinin nasıl biri olacağını anlamak için ailesine bakılır."
+        },
+        {
+            "metin": "Anca beraber, kanca beraber",
+            "kategori": "birlik",
+            "anlam": "Birlikte hareket etmek gerekir."
+        },
+        {
+            "metin": "Anlayana sivrisinek saz, anlamayana davul zurna az",
+            "kategori": "anlayış",
+            "anlam": "Anlayışlı kişiye az söz yeter, anlayışsız kişiye çok söz yetmez."
+        },
+        {
+            "metin": "Aptal ata binince bey oldum sanır, şalgam aşa girince yağ oldum sanır",
+            "kategori": "davranış",
+            "anlam": "Aptal kişiler kendilerini önemli sanırlar."
+        },
+        {
+            "metin": "Araba devrilince yol gösteren çok olur",
+            "kategori": "davranış",
+            "anlam": "İş işten geçtikten sonra herkes akıl verir."
+        },
+        {
+            "metin": "Arayan Mevlasını da bulur, belasını da",
+            "kategori": "davranış",
+            "anlam": "İnsan aradığını bulur ama sonuçlarına da katlanır."
+        },
+        {
+            "metin": "Aş taştan, su baştan",
+            "kategori": "davranış",
+            "anlam": "Her şeyin bir başı vardır."
+        },
+        {
+            "metin": "Aşık oldum, aklım şaştı",
+            "kategori": "aşk",
+            "anlam": "Aşk insanın aklını başından alır."
+        },
+        {
+            "metin": "Aşk ağlatır, dert söyletir",
+            "kategori": "aşk",
+            "anlam": "Aşk ve dert insanı konuşturur."
+        },
+        {
+            "metin": "Aşk olmayınca meşk olmaz",
+            "kategori": "aşk",
+            "anlam": "Sevgi olmadan öğrenme olmaz."
+        },
+        {
+            "metin": "Aşkın gözü kördür",
+            "kategori": "aşk",
+            "anlam": "Aşık olan kişi gerçekleri göremez."
+        },
+        {
+            "metin": "Ata binmek bir ayıp, inmek iki ayıp",
+            "kategori": "davranış",
+            "anlam": "Başlanan işi yarım bırakmak daha kötüdür."
+        },
+        {
+            "metin": "Ata eyer gerek, eyere er gerek",
+            "kategori": "davranış",
+            "anlam": "Her işin bir ustası vardır."
+        },
+        {
+            "metin": "Atalar çıkarayım der, tahtalar döşeyeyim der",
+            "kategori": "davranış",
+            "anlam": "Herkes kendi işini düşünür."
+        },
+        {
+            "metin": "Atalar sözü tutulmazsa uğursuz olur",
+            "kategori": "bilgelik",
+            "anlam": "Büyüklerin sözü dinlenmelidir."
+        },
+        {
+            "metin": "Atasını tanımayan Allah'ını tanımaz",
+            "kategori": "bilgelik",
+            "anlam": "Geçmişini bilmeyen geleceğini bilemez."
+        },
+        {
+            "metin": "Atasözü tutmayanı yılan sokar",
+            "kategori": "bilgelik",
+            "anlam": "Büyüklerin sözünü dinlemeyen zarar görür."
+        },
+        {
+            "metin": "At binenin, kılıç kuşananın",
+            "kategori": "davranış",
+            "anlam": "Her şey onu kullananındır."
+        },
+        {
+            "metin": "At ölür meydan kalır, yiğit ölür şan kalır",
+            "kategori": "değer",
+            "anlam": "İyi işler yapanların adı kalır."
+        },
+        {
+            "metin": "At yedi günde, it yediği günde",
+            "kategori": "davranış",
+            "anlam": "İyi kişiler yavaş, kötü kişiler hızlı alışır."
+        },
+        {
+            "metin": "Ata dost gibi bakmalı, düşman gibi binmeli",
+            "kategori": "davranış",
+            "anlam": "İşlerde dikkatli olmak gerekir."
+        },
+        {
+            "metin": "Ava giden avlanır",
+            "kategori": "davranış",
+            "anlam": "Başkasına tuzak kuran kendisi tuzağa düşer."
+        },
+        {
+            "metin": "Avcı ne kadar hile bilirse, ayı da o kadar yol bilir",
+            "kategori": "bilgelik",
+            "anlam": "Her hileye karşı bir çözüm vardır."
+        },
+        {
+            "metin": "Avrat var, arpa unundan aş eder; avrat var, buğday unundan keş eder",
+            "kategori": "davranış",
+            "anlam": "Kadınların becerisi farklıdır."
+        },
+        {
+            "metin": "Ay görmüşün yıldıza minneti yoktur",
+            "kategori": "davranış",
+            "anlam": "Büyük şeyleri gören küçük şeylere önem vermez."
+        },
+        {
+            "metin": "Ayıpsız yar arayan, yarsız kalır",
+            "kategori": "aşk",
+            "anlam": "Kusursuz eş arayan evlenemez."
+        },
+        {
+            "metin": "Azı bilmeyen çoğu hiç bilmez",
+            "kategori": "bilgelik",
+            "anlam": "Küçük şeyleri değerlendiremeyen büyük şeyleri hiç anlayamaz."
+        },
+        {
+            "metin": "Azıcık aşım, kaygısız başım",
+            "kategori": "mutluluk",
+            "anlam": "Az şeyle yetinmek huzur getirir."
+        },
+        {
+            "metin": "Az eli aşta gör, çok eli işte gör",
+            "kategori": "çalışma",
+            "anlam": "Az kişi yemekte, çok kişi işte olmalıdır."
+        },
+        {
+            "metin": "Az olsun, öz olsun",
+            "kategori": "kalite",
+            "anlam": "Az ama kaliteli olsun."
+        },
+        {
+            "metin": "Az söyle, çok dinle",
+            "kategori": "davranış",
+            "anlam": "Az konuşup çok dinlemek gerekir."
+        },
+        {
+            "metin": "Az tamah çok ziyan getirir",
+            "kategori": "davranış",
+            "anlam": "Açgözlülük büyük zararlara yol açar."
+        },
+        {
+            "metin": "Az veren candan, çok veren maldan",
+            "kategori": "cömertlik",
+            "anlam": "Az veren canından, çok veren malından verir."
+        },
+        {
+            "metin": "Ağaç kökünden yıkılır",
+            "kategori": "bilgelik",
+            "anlam": "Her şey temelinden bozulur."
+        },
+        {
+            "metin": "Ağaç yaprağıyla gürler",
+            "kategori": "birlik",
+            "anlam": "Birlik olmak güç verir."
+        },
+        {
+            "metin": "Ağır kazan geç kaynar",
+            "kategori": "davranış",
+            "anlam": "Ağırbaşlı kişiler geç kızar."
+        },
+        {
+            "metin": "Baba ekmeği zindan ekmeği, koca ekmeği meydan ekmeği",
+            "kategori": "aile",
+            "anlam": "Baba evinde yaşamak zor, kendi evinde yaşamak rahattır."
+        },
+        {
+            "metin": "Baba koruk yer, oğlunun dişi kamaşır",
+            "kategori": "aile",
+            "anlam": "Babanın yaptığı kötü işlerin cezasını çocuk çeker."
+        },
+        {
+            "metin": "Baba oğluna bir bağ bağışlamış, oğul babaya bir salkım üzüm vermemiş",
+            "kategori": "aile",
+            "anlam": "Baba çocuğuna çok şey verir ama çocuk babasına az şey verir."
+        },
+        {
+            "metin": "Baba vergisi görümlük, koca vergisi doyumluk",
+            "kategori": "aile",
+            "anlam": "Baba evinde yaşamak zor, kendi evinde yaşamak rahattır."
+        },
+        {
+            "metin": "Babasından mal kalan, merteği içinden bitmiş sanır",
+            "kategori": "davranış",
+            "anlam": "Hazıra konan kişi çalışmanın değerini bilmez."
+        },
+        {
+            "metin": "Baca eğri de olsa duman doğru çıkar",
+            "kategori": "davranış",
+            "anlam": "Doğru kişi her durumda doğru davranır."
+        },
+        {
+            "metin": "Bağa bak üzüm olsun, yemeye yüzün olsun",
+            "kategori": "çalışma",
+            "anlam": "Çalışmadan yemek olmaz."
+        },
+        {
+            "metin": "Bağ bayırda, tarla çayırda",
+            "kategori": "çalışma",
+            "anlam": "Her şeyin yeri ayrıdır."
+        },
+        {
+            "metin": "Bağa gir izin olsun, üzüm ye, yüzün olsun",
+            "kategori": "davranış",
+            "anlam": "İzin alarak iş yapmak gerekir."
+        },
+        {
+            "metin": "Bağda izin olsun, üzüm yemeye yüzün olsun",
+            "kategori": "davranış",
+            "anlam": "İzin alarak iş yapmak gerekir."
+        },
+        {
+            "metin": "Bağlı koyun yerinde otlar",
+            "kategori": "davranış",
+            "anlam": "İnsan kendi yerinde rahat eder."
+        },
+        {
+            "metin": "Baht olmayınca başta, ne kuruda biter ne yaşta",
+            "kategori": "kader",
+            "anlam": "Talih olmayınca hiçbir iş başarılı olmaz."
+        },
+        {
+            "metin": "Bakarsan bağ, bakmazsan dağ olur",
+            "kategori": "çalışma",
+            "anlam": "İlgilenilen şey gelişir, ilgilenilmeyen şey bozulur."
+        },
+        {
+            "metin": "Bakmakla usta olunsa, köpekler kasap olurdu",
+            "kategori": "çalışma",
+            "anlam": "Sadece bakarak bir şey öğrenilmez."
+        },
+        {
+            "metin": "Bal bal demekle ağız tatlanmaz",
+            "kategori": "çalışma",
+            "anlam": "Sadece sözle iş olmaz."
+        },
+        {
+            "metin": "Bal tutan parmağını yalar",
+            "kategori": "davranış",
+            "anlam": "İş yapan kişi faydasını görür."
+        },
+        {
+            "metin": "Balcının var bal tası, oduncunun var baltası",
+            "kategori": "çalışma",
+            "anlam": "Her işin kendine özgü aleti vardır."
+        },
+        {
+            "metin": "Balık baştan avlanır",
+            "kategori": "yönetim",
+            "anlam": "İşler baştan ele alınmalıdır."
+        },
+        {
+            "metin": "Balık baştan kokar",
+            "kategori": "yönetim",
+            "anlam": "Bozukluk yukarıdan başlar."
+        },
+        {
+            "metin": "Balık çok konuşurum ama ağzım su dolu demez",
+            "kategori": "davranış",
+            "anlam": "İnsan kendi kusurunu görmez."
+        },
+        {
+            "metin": "Balık kavağa çıkınca",
+            "kategori": "imkansız",
+            "anlam": "İmkansız bir durum."
+        },
+        {
+            "metin": "Balta değmedik ağaç olmaz",
+            "kategori": "hayat",
+            "anlam": "Herkesin başına bir şey gelir."
+        },
+        {
+            "metin": "Bana arkadaşını söyle, sana kim olduğunu söyleyeyim",
+            "kategori": "davranış",
+            "anlam": "Kişinin arkadaşları onun karakterini gösterir."
+        },
+        {
+            "metin": "Baskıdaki altından askıdaki salkım yeğdir",
+            "kategori": "değer",
+            "anlam": "Elde olan az şey, olmayan çok şeyden iyidir."
+        },
+        {
+            "metin": "Baskısız yongayı yel alır, sahipsiz tarlayı sel alır",
+            "kategori": "yönetim",
+            "anlam": "Kontrol edilmeyen şeyler bozulur."
+        },
+        {
+            "metin": "Baş başa vermeyince taş yerinden kalkmaz",
+            "kategori": "birlik",
+            "anlam": "Birlik olmadan iş başarılmaz."
+        },
+        {
+            "metin": "Baş dille tartılır",
+            "kategori": "davranış",
+            "anlam": "Kişinin değeri sözleriyle ölçülür."
+        },
+        {
+            "metin": "Baş kes, yaş kesme",
+            "kategori": "davranış",
+            "anlam": "Canlıyı öldürmek, ağacı kesmekten daha kötüdür."
+        },
+        {
+            "metin": "Baş nereye giderse, ayak da oraya gider",
+            "kategori": "yönetim",
+            "anlam": "Yönetici nereye giderse, yönetilen de oraya gider."
+        },
+        {
+            "metin": "Baş ol da eşek başı ol",
+            "kategori": "yönetim",
+            "anlam": "Küçük de olsa yönetici olmak iyidir."
+        },
+        {
+            "metin": "Baş olacak kuzu, boynuzu daha ana karnında biter",
+            "kategori": "yönetim",
+            "anlam": "Lider olacak kişi küçük yaşta belli olur."
+        },
+        {
+            "metin": "Baş sağ olursa börk çok bulunur",
+            "kategori": "sağlık",
+            "anlam": "Sağlık her şeyden önemlidir."
+        },
+        {
+            "metin": "Baş yarılır börk içinde, kol kırılır kürk içinde",
+            "kategori": "aile",
+            "anlam": "Aile içindeki sorunlar dışarıya yansıtılmaz."
+        },
+        {
+            "metin": "Başa gelen çekilir",
+            "kategori": "kader",
+            "anlam": "Kaderde ne varsa o olur."
+        },
+        {
+            "metin": "Başak büyüdükçe boynunu eğer",
+            "kategori": "davranış",
+            "anlam": "Bilgili kişi alçakgönüllü olur."
+        },
+        {
+            "metin": "Başın başı, başın da başı var",
+            "kategori": "yönetim",
+            "anlam": "Herkesin bir üstü vardır."
+        },
+        {
+            "metin": "Başını acemi berbere teslim eden, pamuğunu cebinde taşısın",
+            "kategori": "davranış",
+            "anlam": "İşini ehline vermeyen sonuçlarına katlanır."
+        },
+        {
+            "metin": "Baykuşun kısmeti ayağına gelir",
+            "kategori": "kader",
+            "anlam": "Kısmet kimseye gelir."
+        },
+        {
+            "metin": "Bayramda borç ödeyene ramazan ağır gelir",
+            "kategori": "davranış",
+            "anlam": "Zor durumda olan kişiye her şey zor gelir."
+        },
+        {
+            "metin": "Baz bazla, kaz kazla, kel tavuk topal horozla",
+            "kategori": "davranış",
+            "anlam": "Herkes kendine uygun olanla eşleşir."
+        },
+        {
+            "metin": "Bebeler birbirinden huy kapar",
+            "kategori": "davranış",
+            "anlam": "Çocuklar birbirlerinden alışkanlık edinir."
+        },
+        {
+            "metin": "Bedava sirke baldan tatlıdır",
+            "kategori": "davranış",
+            "anlam": "Parasız şey her zaman daha çekici gelir."
+        },
+        {
+            "metin": "Bekâr gözü kör gözü",
+            "kategori": "davranış",
+            "anlam": "Bekâr kişi her şeye gözü kapalı bakar."
+        },
+        {
+            "metin": "Bekârın parasını it yer, yakasını bit",
+            "kategori": "davranış",
+            "anlam": "Bekâr kişinin malı mülkü olmaz."
+        },
+        {
+            "metin": "Bekârlık maskaralık",
+            "kategori": "davranış",
+            "anlam": "Bekâr kişi düzensiz yaşar."
+        },
+        {
+            "metin": "Bekârlık sultanlık",
+            "kategori": "davranış",
+            "anlam": "Bekâr kişi rahat yaşar."
+        },
+        {
+            "metin": "Bekleyen derviş muradına ermiş",
+            "kategori": "sabır",
+            "anlam": "Sabırlı olan kişi amacına ulaşır."
+        },
+        {
+            "metin": "Bekleyenin bir ayağı çukurda",
+            "kategori": "sabır",
+            "anlam": "Beklemek insanı yorar."
+        },
+        {
+            "metin": "Bekleyenin vay haline",
+            "kategori": "sabır",
+            "anlam": "Beklemek zordur."
+        },
+        {
+            "metin": "Bekleyişte üç gün var",
+            "kategori": "sabır",
+            "anlam": "Beklemek zordur."
+        },
+        {
+            "metin": "Bekâra karı boşamak kolaydır",
+            "kategori": "davranış",
+            "anlam": "İşin içinde olmayan, o işi kolay sanır."
+        },
+        {
+            "metin": "Beleş atın dişine bakılmaz",
+            "kategori": "değer",
+            "anlam": "Bedava olan şeyin kusuru aranmaz."
+        },
+        {
+            "metin": "Benim oğlum bina okur, döner döner yine okur",
+            "kategori": "eğitim",
+            "anlam": "Bir işi tekrar tekrar yapan kişi ilerleyemez."
+        },
+        {
+            "metin": "Besle kargayı oysun gözünü",
+            "kategori": "davranış",
+            "anlam": "İyilik yaptığın kişiden kötülük görebilirsin."
+        },
+        {
+            "metin": "Beyaz kervan gece yürür",
+            "kategori": "bilgelik",
+            "anlam": "Bilgili kişi sessizce işini yapar."
+        },
+        {
+            "metin": "Bir elin nesi var, iki elin sesi var",
+            "kategori": "birlik",
+            "anlam": "Birlikte yapılan iş daha verimli olur."
+        },
+        {
+            "metin": "Bir fincan kahvenin kırk yıl hatırı vardır",
+            "kategori": "değer",
+            "anlam": "Küçük bir iyilik bile unutulmaz."
+        },
+        {
+            "metin": "Bir koltuğa iki karpuz sığmaz",
+            "kategori": "davranış",
+            "anlam": "Aynı anda iki iş birden yapılmaz."
+        },
+        {
+            "metin": "Bir musibet bin nasihatten iyidir",
+            "kategori": "tecrübe",
+            "anlam": "Kötü bir olay, çok öğütten daha etkilidir."
+        },
+        {
+            "metin": "Borç yiğidin kamçısıdır",
+            "kategori": "çalışma",
+            "anlam": "Borçlu olan kişi daha çok çalışır."
+        },
+        {
+            "metin": "Bıçak yarası geçer, dil yarası geçmez",
+            "kategori": "davranış",
+            "anlam": "Sözle verilen zarar kolayca unutulmaz."
+        },
+        {
+            "metin": "Bilen konuşmaz, konuşan bilmez",
+            "kategori": "bilgelik",
+            "anlam": "Gerçekten bilen kişi çok konuşmaz."
+        },
+        {
+            "metin": "Bir ağızdan çıkan bin ağıza yayılır",
+            "kategori": "iletişim",
+            "anlam": "Söylenen söz hızla yayılır."
+        },
+        {
+            "metin": "Bir başa bir göz yeter",
+            "kategori": "ihtiyaç",
+            "anlam": "Her şeyin fazlası gereksizdir."
+        },
+        {
+            "metin": "Bir çiçekle bahar olmaz",
+            "kategori": "birlik",
+            "anlam": "Bir kişiyle büyük işler olmaz."
+        },
+        {
+            "metin": "Bir deli kuyuya taş atar, kırk akıllı çıkaramaz",
+            "kategori": "bilgelik",
+            "anlam": "Düşüncesizce yapılan bir işin sonucu zor düzeltilir."
+        },
+        {
+            "metin": "Bir el bir eli yıkar, iki el yüzü yıkar",
+            "kategori": "birlik",
+            "anlam": "İşbirliğiyle daha iyi sonuç alınır."
+        },
+        {
+            "metin": "Bir göz ağlarken öbür göz gülmez",
+            "kategori": "duygu",
+            "anlam": "İyi ve kötü bir arada olmaz."
+        },
+        {
+            "metin": "Bir işin başı, sonu düşünülerek yapılır",
+            "kategori": "planlama",
+            "anlam": "Her iş önceden planlanmalıdır."
+        },
+        {
+            "metin": "Bir kahvenin kırk yıl hatırı vardır",
+            "kategori": "değer",
+            "anlam": "Küçük bir iyilik bile unutulmaz."
+        },
+        {
+            "metin": "Bir mıh bir nal kurtarır, bir nal bir at kurtarır",
+            "kategori": "değer",
+            "anlam": "Küçük bir şey büyük bir fayda sağlayabilir."
+        },
+        {
+            "metin": "Bir söz bir savaşı durdurur",
+            "kategori": "iletişim",
+            "anlam": "Doğru söz büyük sorunları çözer."
+        },
+        {
+            "metin": "Bir taşla iki kuş vurmak",
+            "kategori": "planlama",
+            "anlam": "Bir işte iki fayda sağlamak."
+        },
+        {
+            "metin": "Bir yastıkta kocamak",
+            "kategori": "aile",
+            "anlam": "Evliliğin uzun ve huzurlu olması."
+        },
+        {
+            "metin": "Birlikten kuvvet doğar",
+            "kategori": "birlik",
+            "anlam": "Birlikte hareket edenler daha güçlü olur."
+        },
+        {
+            "metin": "Boş çuval ayakta durmaz",
+            "kategori": "ihtiyaç",
+            "anlam": "Temel ihtiyaçlar karşılanmadan iş yapılamaz."
+        },
+        {
+            "metin": "Boş teneke çok ses çıkarır",
+            "kategori": "davranış",
+            "anlam": "Bilgisiz kişi çok konuşur."
+        },
+        {
+            "metin": "Bostan korkuluğu kuş kondurmaz",
+            "kategori": "davranış",
+            "anlam": "Küçük bir engel bile büyük etki yapabilir."
+        },
+        {
+            "metin": "Bugünün işini yarına bırakma",
+            "kategori": "planlama",
+            "anlam": "İşler zamanında yapılmalıdır."
+        },
+        {
+            "metin": "Büyük balık küçük balığı yutar",
+            "kategori": "hayat",
+            "anlam": "Güçlü olan zayıfı ezer."
+        },
+        {
+            "metin": "Bülbülün çektiği dili belasıdır",
+            "kategori": "iletişim",
+            "anlam": "Kişi başına geleni çoğu zaman kendi sözüyle getirir."
+        },
+        {
+            "metin": "Büyük lokma ye, büyük söz söyleme",
+            "kategori": "davranış",
+            "anlam": "İddialı konuşmamak gerekir."
+        },
+        {
+            "metin": "Büyük başın derdi büyük olur",
+            "kategori": "hayat",
+            "anlam": "Sorumluluğu büyük olanın derdi de büyük olur."
+        },
+        {
+            "metin": "Büyük kapıdan giren büyük toz kaldırır",
+            "kategori": "davranış",
+            "anlam": "Büyük iş yapanın etkisi de büyük olur."
+        },
+        {
+            "metin": "Büyükler konuşurken küçükler susar",
+            "kategori": "saygı",
+            "anlam": "Büyüklerin sözü dinlenmelidir."
+        },
+        {
+            "metin": "Büyüyen çocuk, küçülen yatak ister",
+            "kategori": "hayat",
+            "anlam": "İnsan büyüdükçe ihtiyaçları değişir."
+        },
+        {
+            "metin": "Bıçak kemiğe dayandı",
+            "kategori": "zor durum",
+            "anlam": "Dayanma gücü kalmadı, son noktaya gelindi."
+        },
+        {
+            "metin": "Bıçak saplandığı yerden çıkar",
+            "kategori": "davranış",
+            "anlam": "Sorunun kaynağı yine aynı yerdir."
+        },
+        {
+            "metin": "Bilenle bilmeyen bir olmaz",
+            "kategori": "bilgelik",
+            "anlam": "Bilgiliyle bilgisiz bir tutulmaz."
+        },
+        {
+            "metin": "Birlik bozulursa dirlik bozulur",
+            "kategori": "birlik",
+            "anlam": "Birlik olmazsa düzen de olmaz."
+        },
+        {
+            "metin": "Büyük dağ nasıl olsa yıkılır, küçük taş yerinde kalır",
+            "kategori": "hayat",
+            "anlam": "Büyük olanlar da zamanla yok olur, küçükler kalır."
+        },
+        {
+            "metin": "Büyük evde dert çok olur",
+            "kategori": "hayat",
+            "anlam": "Büyük sorumluluklar çok dert getirir."
+        },
+        {
+            "metin": "Büyük işin küçük ortağı olmaz",
+            "kategori": "hayat",
+            "anlam": "Büyük işlerde küçük pay sahipleri söz sahibi olamaz."
+        },
+        {
+            "metin": "Büyük yükü deve çeker",
+            "kategori": "hayat",
+            "anlam": "Ağır işler güçlü kişilere düşer."
+        },
+        {
+            "metin": "Büyüyen her şey küçülür, küçülen her şey büyür",
+            "kategori": "hayat",
+            "anlam": "Hayatta her şey değişir."
+        },
+        {
+            "metin": "Bülbül altın kafeste de olsa, ille de vatanım der",
+            "kategori": "özlem",
+            "anlam": "Kişi ne kadar iyi yerde olursa olsun, vatanını özler."
+        },
+        {
+            "metin": "Bülbülün çektiği dili belasıdır",
+            "kategori": "iletişim",
+            "anlam": "Kişi başına geleni çoğu zaman kendi sözüyle getirir."
+        },
+        {
+            "metin": "Büyüklük taslayan küçülür",
+            "kategori": "davranış",
+            "anlam": "Kendini büyük gören kişi küçülür."
+        },
+        {
+            "metin": "Büyüyen gölge, küçülen güneşten olur",
+            "kategori": "hayat",
+            "anlam": "Bir şeyin büyümesi başka bir şeyin küçülmesiyle olur."
+        },
+        {
+            "metin": "Büyüyen iş, küçülen kazanç getirir",
+            "kategori": "hayat",
+            "anlam": "Büyüyen işte kazanç azalabilir."
+        },
+        {
+            "metin": "Cahil cesur olur, akıllı tedbirli.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz kişi düşünmeden hareket eder."
+        },
+        {
+            "metin": "Cahile laf anlatmak, duvara su dökmek gibidir.",
+            "kategori": "bilgelik",
+            "anlam": "Anlamayana söz fayda etmez."
+        },
+        {
+            "metin": "Cahilin dostluğu, akıllının düşmanlığından beterdir.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz dost, akıllı düşmandan daha zararlıdır."
+        },
+        {
+            "metin": "Cami yıkılsa da mihrap yerinde kalır.",
+            "kategori": "değer",
+            "anlam": "Önemli olan özdür, şekil değişebilir."
+        },
+        {
+            "metin": "Can candan tatlıdır.",
+            "kategori": "değer",
+            "anlam": "İnsan için en değerli şey kendi canıdır."
+        },
+        {
+            "metin": "Can çıkmayınca huy çıkmaz.",
+            "kategori": "davranış",
+            "anlam": "Kişinin huyu kolay kolay değişmez."
+        },
+        {
+            "metin": "Canı yanan cami duvarına sarılır.",
+            "kategori": "davranış",
+            "anlam": "Zor durumda kalan her çareye başvurur."
+        },
+        {
+            "metin": "Cömertin malı tükenmez.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert kişi her zaman bir yolunu bulur."
+        },
+        {
+            "metin": "Cömertlik kapı açar.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert olmak insanı her yerde sevdirir."
+        },
+        {
+            "metin": "Cömertlikte sınır olmaz.",
+            "kategori": "cömertlik",
+            "anlam": "Gerçek cömertlik karşılık beklemez."
+        },
+        {
+            "metin": "Cömertlik insanı yüceltir.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert olan kişi toplumda saygı görür."
+        },
+        {
+            "metin": "Cömertlik servetle değil, yürekle ölçülür.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik mal ile değil, gönül ile olur."
+        },
+        {
+            "metin": "Cömertten al, cimriden kaç.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert insanla dostluk kurmak iyidir."
+        },
+        {
+            "metin": "Cömertlikte zarar gelmez.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert insan kimseye kötülük yapmaz."
+        },
+        {
+            "metin": "Cömertlik kapı kapatmaz.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert insan her zaman yardım eder."
+        },
+        {
+            "metin": "Cömertlikte yarışan kaybetmez.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlikte öne çıkan kişi toplumda değer kazanır."
+        },
+        {
+            "metin": "Cömertlikte sınır olmaz.",
+            "kategori": "cömertlik",
+            "anlam": "Gerçek cömertlik karşılık beklemez."
+        },
+        {
+            "metin": "Cömertlikte el açık, gönül geniş olmalı.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik hem mal hem gönül ile olur."
+        },
+        {
+            "metin": "Cömertlikte ölçü olmaz.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlikte sınır aranmaz."
+        },
+        {
+            "metin": "Cömertlikte paylaşılan artar.",
+            "kategori": "cömertlik",
+            "anlam": "Paylaşılan şey azalmaz, çoğalır."
+        },
+        {
+            "metin": "Cahil çok konuşur, akıllı çok düşünür.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz kişi çok konuşur, akıllı kişi ise düşünerek hareket eder."
+        },
+        {
+            "metin": "Cahile söz anlatmak, taşla suyu ezmek gibidir.",
+            "kategori": "bilgelik",
+            "anlam": "Anlamayana söz fayda etmez."
+        },
+        {
+            "metin": "Cahilin dostluğu, akıllının düşmanlığından beterdir.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz dost, akıllı düşmandan daha zararlıdır."
+        },
+        {
+            "metin": "Cami yıkılsa da mihrap yerinde kalır.",
+            "kategori": "değer",
+            "anlam": "Önemli olan özdür, şekil değişebilir."
+        },
+        {
+            "metin": "Can candan tatlıdır.",
+            "kategori": "değer",
+            "anlam": "İnsan için en değerli şey kendi canıdır."
+        },
+        {
+            "metin": "Can çıkmayınca huy çıkmaz.",
+            "kategori": "davranış",
+            "anlam": "Kişinin huyu kolay kolay değişmez."
+        },
+        {
+            "metin": "Canı yanan cami duvarına sarılır.",
+            "kategori": "davranış",
+            "anlam": "Zor durumda kalan her çareye başvurur."
+        },
+        {
+            "metin": "Cömertin malı tükenmez.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert kişi her zaman bir yolunu bulur."
+        },
+        {
+            "metin": "Cömertlikte sınır olmaz.",
+            "kategori": "cömertlik",
+            "anlam": "Gerçek cömertlik karşılık beklemez."
+        },
+        {
+            "metin": "Cömertlikte paylaşılan artar.",
+            "kategori": "cömertlik",
+            "anlam": "Paylaşılan şey azalmaz, çoğalır."
+        },
+        {
+            "metin": "Cahil başa taç olmaz.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz kişi yönetici olamaz."
+        },
+        {
+            "metin": "Cahile söz anlatmak, boşa kürek çekmektir.",
+            "kategori": "bilgelik",
+            "anlam": "Anlamayana söz fayda etmez."
+        },
+        {
+            "metin": "Cahilin dostluğu, akıllının düşmanlığından beterdir.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz dost, akıllı düşmandan daha zararlıdır."
+        },
+        {
+            "metin": "Cami duvarına işeme, geri sıçrar.",
+            "kategori": "davranış",
+            "anlam": "Kutsal değerlere saygısızlık yapan zarar görür."
+        },
+        {
+            "metin": "Can boğazdan gelir, boğazdan da gider.",
+            "kategori": "sağlık",
+            "anlam": "Yemek hem yaşatır hem de zarar verebilir."
+        },
+        {
+            "metin": "Can çıkmayınca huy çıkmaz.",
+            "kategori": "davranış",
+            "anlam": "Kişinin huyu kolay kolay değişmez."
+        },
+        {
+            "metin": "Cömertin sofrası dardır, gönlü geniştir.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert kişi azla da paylaşır."
+        },
+        {
+            "metin": "Cömertlik ekilen tarlada bereket olur.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik yapılan yerde bolluk olur."
+        },
+        {
+            "metin": "Cömertlik göze, cimrilik cebe yakışmaz.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik insanı güzelleştirir, cimrilik ise küçültür."
+        },
+        {
+            "metin": "Cömertlikte el açık, gönül ferah olmalı.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik hem mal hem gönül ile olur."
+        },
+        {
+            "metin": "Cahil ile dost olan, akılsızla yoldaş olur.",
+            "kategori": "bilgelik",
+            "anlam": "Cahil kişiyle dostluk kuran zarar görür."
+        },
+        {
+            "metin": "Cahilin yanında kitap susar.",
+            "kategori": "bilgelik",
+            "anlam": "Bilgisiz ortamda bilgi değer görmez."
+        },
+        {
+            "metin": "Camiye gitmeyen, ezanı uzaktan duyar.",
+            "kategori": "inanç",
+            "anlam": "Bir işe katılmayan, sonucunu uzaktan izler."
+        },
+        {
+            "metin": "Canı yanan, ateşe yaklaşmaz.",
+            "kategori": "tecrübe",
+            "anlam": "Kötü tecrübe yaşayan, aynı hatayı tekrar yapmaz."
+        },
+        {
+            "metin": "Canı sıkılan, gölge arar.",
+            "kategori": "hayat",
+            "anlam": "Sıkıntısı olan kişi, rahatlık arar."
+        },
+        {
+            "metin": "Cömertin eli darda olsa da gönlü boldur.",
+            "kategori": "cömertlik",
+            "anlam": "Cömert kişi azla da paylaşır."
+        },
+        {
+            "metin": "Cömertlik, insanı insan yapar.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik insanın en değerli özelliğidir."
+        },
+        {
+            "metin": "Cömertlik, kapıdan girince dert çıkar.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik sıkıntıyı uzaklaştırır."
+        },
+        {
+            "metin": "Cömertlik, mal ile değil, hal ile olur.",
+            "kategori": "cömertlik",
+            "anlam": "Cömertlik sadece mal ile değil, davranışla da gösterilir."
+        },
+        {
+            "metin": "Cömertlik, paylaşmakla çoğalır.",
+            "kategori": "cömertlik",
+            "anlam": "Paylaşmak, cömertliği artırır."
+        },
+        {
+            "metin": "Çabuk parlayan çabuk söner.",
+            "kategori": "hayat",
+            "anlam": "Hızlı başlayan işler çabuk biter."
+        },
+        {
+            "metin": "Çam sakızı çoban armağanı.",
+            "kategori": "değer",
+            "anlam": "Az da olsa verilen hediye değerlidir."
+        },
+        {
+            "metin": "Çamur at, izi kalsın.",
+            "kategori": "davranış",
+            "anlam": "Birine iftira atılırsa izi kalır."
+        },
+        {
+            "metin": "Çare bulunmayan dert olmaz.",
+            "kategori": "bilgelik",
+            "anlam": "Her derdin bir çözümü vardır."
+        },
+        {
+            "metin": "Çarık eski de olsa, yol yenidir.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübeli kişi yeni durumlara da uyum sağlar."
+        },
+        {
+            "metin": "Çayda çıra yanmazsa, köyde düğün olmaz.",
+            "kategori": "gelenek",
+            "anlam": "Bazı gelenekler olmadan kutlama olmaz."
+        },
+        {
+            "metin": "Çekirge bir sıçrar, iki sıçrar, üçüncüde yakalanır.",
+            "kategori": "davranış",
+            "anlam": "Kötülük yapan kişi sonunda yakalanır."
+        },
+        {
+            "metin": "Çıkmadık candan umut kesilmez.",
+            "kategori": "umut",
+            "anlam": "Hayatta oldukça umut vardır."
+        },
+        {
+            "metin": "Çiftçinin karnını yarmışlar, kırk tane gelecek çıkmış.",
+            "kategori": "planlama",
+            "anlam": "Çiftçi hep geleceği düşünür."
+        },
+        {
+            "metin": "Çiğ yemedim ki karnım ağrısın.",
+            "kategori": "davranış",
+            "anlam": "Suç işlemedim ki ceza göreyim."
+        },
+        {
+            "metin": "Çivi çiviyi söker.",
+            "kategori": "çözüm",
+            "anlam": "Bir sorunu başka bir yöntemle çözmek mümkündür."
+        },
+        {
+            "metin": "Çok yaşayan bilmez, çok gezen bilir.",
+            "kategori": "tecrübe",
+            "anlam": "Gezip gören kişi daha çok şey öğrenir."
+        },
+        {
+            "metin": "Çok veren maldan, az veren candan verir.",
+            "kategori": "cömertlik",
+            "anlam": "Az veren canından, çok veren malından verir."
+        },
+        {
+            "metin": "Çok söz yalansız, çok para haramsız olmaz.",
+            "kategori": "bilgelik",
+            "anlam": "Çok konuşan yalan söyler, çok para kazanan haram işler."
+        },
+        {
+            "metin": "Çok tutan eli, az tutan dili yorar.",
+            "kategori": "davranış",
+            "anlam": "Çok çalışan yorulur, az konuşan üzülmez."
+        },
+        {
+            "metin": "Çok ümit, çok bekletir.",
+            "kategori": "umut",
+            "anlam": "Fazla umut, fazla bekleyiş getirir."
+        },
+        {
+            "metin": "Çok yatan, az kazanır.",
+            "kategori": "çalışma",
+            "anlam": "Çalışmayan kişi az kazanır."
+        },
+        {
+            "metin": "Çorap söküğü gibi gelir.",
+            "kategori": "durum",
+            "anlam": "Bir sorun başladığında arkası gelir."
+        },
+        {
+            "metin": "Çürük tahta çivi tutmaz.",
+            "kategori": "değer",
+            "anlam": "Değersiz kişiye güven olmaz."
+        },
+        {
+            "metin": "Dağ dağa kavuşmaz, insan insana kavuşur.",
+            "kategori": "hayat",
+            "anlam": "İnsanlar birbirlerini bulur, dağlar buluşamaz."
+        },
+        {
+            "metin": "Dağ ne kadar yüce olsa, yol üstünden aşar.",
+            "kategori": "azim",
+            "anlam": "Engeller ne kadar büyük olsa da aşılır."
+        },
+        {
+            "metin": "Damlaya damlaya göl olur.",
+            "kategori": "birikim",
+            "anlam": "Küçük birikimler zamanla büyük sonuçlar doğurur."
+        },
+        {
+            "metin": "Dana ağzından çıkan, inek ağzına girer.",
+            "kategori": "davranış",
+            "anlam": "Kötü sözler birinden diğerine geçer."
+        },
+        {
+            "metin": "Dedikodu, dünyanın en hızlı yayılan hastalığıdır.",
+            "kategori": "davranış",
+            "anlam": "Dedikodu çok hızlı yayılır."
+        },
+        {
+            "metin": "Değirmen iki taştan, muhabbet iki baştan.",
+            "kategori": "ilişki",
+            "anlam": "İlişkiler karşılıklı olmalıdır."
+        },
+        {
+            "metin": "Deli ile çıkma yola, başına getirir bela.",
+            "kategori": "davranış",
+            "anlam": "Akılsız kişilerle iş yapmak zarar getirir."
+        },
+        {
+            "metin": "Deliye her gün bayram.",
+            "kategori": "davranış",
+            "anlam": "Akılsız kişi her günü eğlence gibi yaşar."
+        },
+        {
+            "metin": "Demir tavında dövülür.",
+            "kategori": "zamanlama",
+            "anlam": "İşler zamanında yapılmalıdır."
+        },
+        {
+            "metin": "Denize düşen yılana sarılır.",
+            "kategori": "çaresizlik",
+            "anlam": "Zor durumda kalan kişi her şeye tutunur."
+        },
+        {
+            "metin": "Ecel geldi cihane, baş ağrısı bahane.",
+            "kategori": "kader",
+            "anlam": "Ölüm gelince her şey bahane olur."
+        },
+        {
+            "metin": "Eceli gelen köpek cami duvarına işer.",
+            "kategori": "davranış",
+            "anlam": "Sonunu bilen kişi her şeyi yapar."
+        },
+        {
+            "metin": "Eden bulur, inleyen ölür.",
+            "kategori": "kader",
+            "anlam": "Yapılan işin karşılığı mutlaka gelir."
+        },
+        {
+            "metin": "Eğilen baş kesilmez.",
+            "kategori": "davranış",
+            "anlam": "Boyun eğen kişiye zarar verilmez."
+        },
+        {
+            "metin": "Eğri otur, doğru söyle.",
+            "kategori": "davranış",
+            "anlam": "Davranışın nasıl olursa olsun, doğruyu söyle."
+        },
+        {
+            "metin": "Ek tohumun hasını, çekme yiyecek yasını.",
+            "kategori": "çalışma",
+            "anlam": "İyi tohum ekersen iyi ürün alırsın."
+        },
+        {
+            "metin": "Ekmeğin büyüğü, hamurun çoğundan olur.",
+            "kategori": "çalışma",
+            "anlam": "Çok çalışan çok kazanır."
+        },
+        {
+            "metin": "Ekmeğin karnı doyurur, sözün başı ağrıtır.",
+            "kategori": "iletişim",
+            "anlam": "Söz dikkatli söylenmelidir."
+        },
+        {
+            "metin": "Ekmek aslanın ağzında.",
+            "kategori": "çalışma",
+            "anlam": "Kazanç için çok çalışmak gerekir."
+        },
+        {
+            "metin": "Ekmekle oynayanın ekmeğiyle oynanır.",
+            "kategori": "davranış",
+            "anlam": "Başkasının rızkıyla oynayan kendi rızkını kaybeder."
+        },
+        {
+            "metin": "Ekmek olmayınca, yemek olmaz.",
+            "kategori": "ihtiyaç",
+            "anlam": "Temel ihtiyaçlar karşılanmadan diğer ihtiyaçlar giderilemez."
+        },
+        {
+            "metin": "Ekmekten kaşık olur ama her yoğurdun hakkına değil.",
+            "kategori": "değer",
+            "anlam": "Her şey her yerde kullanılamaz."
+        },
+        {
+            "metin": "Elde edilmiş bir şey, aranılan iki şeye bedeldir.",
+            "kategori": "değer",
+            "anlam": "Elde olan şey, olmayan iki şeyden daha değerlidir."
+        },
+        {
+            "metin": "Elin ağzı torba değil ki büzesin.",
+            "kategori": "iletişim",
+            "anlam": "Söylenen sözü geri almak mümkün değildir."
+        },
+        {
+            "metin": "Elin ile koymadığın şeyi, ağzın ile alma.",
+            "kategori": "davranış",
+            "anlam": "Hak etmediğin şeyi isteme."
+        },
+        {
+            "metin": "Fakirlik ayıp değil, tembellik ayıp.",
+            "kategori": "çalışma",
+            "anlam": "Fakir olmak değil, tembel olmak ayıptır."
+        },
+        {
+            "metin": "Fakirin tavuğu tek tek yumurtlar.",
+            "kategori": "kader",
+            "anlam": "Fakirin kazancı az ve zor olur."
+        },
+        {
+            "metin": "Fare çıktığı deliği bilir.",
+            "kategori": "tecrübe",
+            "anlam": "Kişi kendi işini en iyi bilir."
+        },
+        {
+            "metin": "Faydasız baş mezara yaraşır.",
+            "kategori": "çalışma",
+            "anlam": "İşe yaramayan kişi ölü gibidir."
+        },
+        {
+            "metin": "Felek kimine kavun yedirir, kimine kelek.",
+            "kategori": "kader",
+            "anlam": "Kader herkese farklı davranır."
+        },
+        {
+            "metin": "Fırsat her vakit ele geçmez.",
+            "kategori": "fırsat",
+            "anlam": "Fırsatlar sık sık gelmez, değerlendirmek gerekir."
+        },
+        {
+            "metin": "Fukaranın düşkünü, beyaz giyer kış günü.",
+            "kategori": "davranış",
+            "anlam": "Fakir kişi durumuna uygun olmayan şeyler yapar."
+        },
+        {
+            "metin": "Fukaranın tavuğu tek tek yumurtlar.",
+            "kategori": "kader",
+            "anlam": "Fakirin kazancı az ve zor olur."
+        },
+        {
+            "metin": "Fırsat sakal altından geçer.",
+            "kategori": "fırsat",
+            "anlam": "Fırsatlar beklenmedik zamanlarda gelir."
+        },
+        {
+            "metin": "Fukaranın ekmeği, zenginin yemeği.",
+            "kategori": "değer",
+            "anlam": "Fakirin azı, zenginin çoğundan değerlidir."
+        },
+        {
+            "metin": "Gelin altın taht getirmiş, çıkmış kendisi oturmuş.",
+            "kategori": "davranış",
+            "anlam": "Kişi kendi getirdiği şeyi kendisi kullanır."
+        },
+        {
+            "metin": "Gelin girmedik ev olmaz, ölüm girmedi ev olmaz.",
+            "kategori": "hayat",
+            "anlam": "Her evde mutluluk ve üzüntü olur."
+        },
+        {
+            "metin": "Gelinin saçı uzun, düşüncesi kısa.",
+            "kategori": "davranış",
+            "anlam": "Gençler tecrübesiz olduğu için düşüncesiz davranır."
+        },
+        {
+            "metin": "Gemi azıya almak.",
+            "kategori": "davranış",
+            "anlam": "Kontrolü kaybetmek, dizginleri bırakmak."
+        },
+        {
+            "metin": "Göğe direk, denize kapak olmaz.",
+            "kategori": "imkansız",
+            "anlam": "İmkansız işler yapılamaz."
+        },
+        {
+            "metin": "Hacı hacı olmaz gitmekle Mekke'ye, dede dede olmaz gitmekle tekkeye.",
+            "kategori": "davranış",
+            "anlam": "Sadece görünüşle bir şey olunmaz, içten olmak gerekir."
+        },
+        {
+            "metin": "Hacı Mekke'de, derviş tekkede.",
+            "kategori": "davranış",
+            "anlam": "Herkes kendi yerinde olmalıdır."
+        },
+        {
+            "metin": "Hak deyince akan sular durur.",
+            "kategori": "adalet",
+            "anlam": "Haklı söz karşısında kimse duramaz."
+        },
+        {
+            "metin": "Hak gelince batıl gider.",
+            "kategori": "adalet",
+            "anlam": "Doğru gelince yanlış gider."
+        },
+        {
+            "metin": "Hak yerini bulur.",
+            "kategori": "adalet",
+            "anlam": "Doğru olan her zaman ortaya çıkar."
+        },
+        {
+            "metin": "İğneyi kendine, çuvaldızı başkasına batır.",
+            "kategori": "davranış",
+            "anlam": "Önce kendini eleştir, sonra başkalarını."
+        },
+        {
+            "metin": "İki baş bir kazanda kaynamaz.",
+            "kategori": "yönetim",
+            "anlam": "Bir işte iki yönetici olmaz."
+        },
+        {
+            "metin": "İki cambaz bir ipte oynamaz.",
+            "kategori": "davranış",
+            "anlam": "İki usta aynı işi yapamaz."
+        },
+        {
+            "metin": "İki dinle bir söyle.",
+            "kategori": "iletişim",
+            "anlam": "Çok dinleyip az konuşmak gerekir."
+        },
+        {
+            "metin": "İki el bir baş içindir.",
+            "kategori": "birlik",
+            "anlam": "İki kişi bir kişinin işini yapabilir."
+        },
+        {
+            "metin": "İki göz bir görür.",
+            "kategori": "birlik",
+            "anlam": "İki kişi bir kişiden daha iyi görür."
+        },
+        {
+            "metin": "İki karpuz bir koltuğa sığmaz.",
+            "kategori": "davranış",
+            "anlam": "Aynı anda iki iş birden yapılamaz."
+        },
+        {
+            "metin": "İki ölç bir biç.",
+            "kategori": "davranış",
+            "anlam": "Bir işi yapmadan önce iyi düşün."
+        },
+        {
+            "metin": "İki testi çarpışınca biri elbet kırılır.",
+            "kategori": "çatışma",
+            "anlam": "İki kişi çatışınca biri zarar görür."
+        },
+        {
+            "metin": "İki yüzlü olanın yüzü olmaz.",
+            "kategori": "davranış",
+            "anlam": "İki yüzlü kişinin yüzü olmaz."
+        },
+        {
+            "metin": "İkiyüzlülük, insanın en kötü huyudur.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük en kötü huydur."
+        },
+        {
+            "metin": "İkiyüzlüye güven olmaz.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlü kişiye güvenilmez."
+        },
+        {
+            "metin": "İkiyüzlülük, dostluğu bozar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük dostluğu bitirir."
+        },
+        {
+            "metin": "İkiyüzlülük, güveni yıkar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük güveni bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, sevgiyi öldürür.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük sevgiyi yok eder."
+        },
+        {
+            "metin": "İkiyüzlülük, dostluğu zehirler.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük dostluğu bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, güveni sarsar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük güveni bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, sevgiyi yok eder.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük sevgiyi bitirir."
+        },
+        {
+            "metin": "İkiyüzlülük, dostluğu bitirir.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük dostluğu yok eder."
+        },
+        {
+            "metin": "İkiyüzlülük, güveni yıkar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük güveni bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, sevgiyi öldürür.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük sevgiyi yok eder."
+        },
+        {
+            "metin": "İkiyüzlülük, dostluğu zehirler.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük dostluğu bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, güveni sarsar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük güveni bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, sevgiyi yok eder.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük sevgiyi bitirir."
+        },
+        {
+            "metin": "İkiyüzlülük, sevgiyi öldürür.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük sevgiyi yok eder."
+        },
+        {
+            "metin": "İkiyüzlülük, dostluğu zehirler.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük dostluğu bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, güveni sarsar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük güveni bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, güveni yıkar.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük güveni bozar."
+        },
+        {
+            "metin": "İkiyüzlülük, dostluğu bitirir.",
+            "kategori": "davranış",
+            "anlam": "İkiyüzlülük dostluğu yok eder."
+        },
+        {
+            "metin": "Kaba etinle gel, yüzünle git.",
+            "kategori": "davranış",
+            "anlam": "İşini bitirip git."
+        },
+        {
+            "metin": "Kadı anlatana göre fetva verir.",
+            "kategori": "adalet",
+            "anlam": "Hakim anlatılanlara göre karar verir."
+        },
+        {
+            "metin": "Kadı ekmeği karın doyurmaz.",
+            "kategori": "adalet",
+            "anlam": "Haksız kazanç insanı doyurmaz."
+        },
+        {
+            "metin": "Kadı kızında bile kusur olur.",
+            "kategori": "mükemmellik",
+            "anlam": "Hiçbir şey kusursuz değildir."
+        },
+        {
+            "metin": "Kadıya mı inanayım, yoksa gözüme mi?",
+            "kategori": "adalet",
+            "anlam": "Gördüğüne inanmak daha doğrudur."
+        },
+        {
+            "metin": "Kadın erkeğin eşeği, karnı sırtı bir küşeği.",
+            "kategori": "aile",
+            "anlam": "Kadın ve erkek birbirine destek olmalıdır."
+        },
+        {
+            "metin": "Kadın kocasını isterse vezir, isterse rezil eder.",
+            "kategori": "aile",
+            "anlam": "Kadının etkisi büyüktür."
+        },
+        {
+            "metin": "Kadın malı kapı mandalı.",
+            "kategori": "aile",
+            "anlam": "Kadının malı aileye aittir."
+        },
+        {
+            "metin": "Kadın var ev yapar, kadın var ev yıkar.",
+            "kategori": "aile",
+            "anlam": "Kadının etkisi çok büyüktür."
+        },
+        {
+            "metin": "Kadının şamdanı altın olsa, mumu dikecek er gerek.",
+            "kategori": "aile",
+            "anlam": "Kadın ne kadar zengin olsa da erkeğe ihtiyacı vardır."
+        },
+        {
+            "metin": "Kadının yüzü evin aynasıdır.",
+            "kategori": "aile",
+            "anlam": "Kadının mutluluğu evin mutluluğunu gösterir."
+        },
+        {
+            "metin": "Kadının yüzü evin yüzüdür.",
+            "kategori": "aile",
+            "anlam": "Kadının hali evin halini yansıtır."
+        },
+        {
+            "anlam": "Oğlan çocuğu ailenin devamı, kız çocuğu süsüdür."
+        },
+        {
+            "metin": "Okuyana her gün bayram.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişi her gün yeni şeyler öğrenir."
+        },
+        {
+            "metin": "Okuyan ile okumayan bir olmaz.",
+            "kategori": "eğitim",
+            "anlam": "Eğitimli kişi ile eğitimsiz kişi arasında fark vardır."
+        },
+        {
+            "metin": "Okuyanın bilmediği, okumayanın bildiği olmaz.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişi her şeyi bilir."
+        },
+        {
+            "metin": "Okuyanın yolu açık olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu açık olur."
+        },
+        {
+            "metin": "Okuyanın yüzü güler.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişi mutlu olur."
+        },
+        {
+            "metin": "Okuyanın yüreği ferah olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yüreği ferah olur."
+        },
+        {
+            "metin": "Okuyanın yolu uzun olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu uzun olur."
+        },
+        {
+            "metin": "Okuyanın yolu aydınlık olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu aydınlık olur."
+        },
+        {
+            "metin": "Okuyanın yolu geniş olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu geniş olur."
+        },
+        {
+            "metin": "Okuyanın yolu kolay olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu kolay olur."
+        },
+        {
+            "metin": "Okuyanın yolu güzel olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu güzel olur."
+        },
+        {
+            "metin": "Okuyanın yolu parlak olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu parlak olur."
+        },
+        {
+            "metin": "Okuyanın yolu aydın olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu aydın olur."
+        },
+        {
+            "metin": "Okuyanın yolu ışıklı olur.",
+            "kategori": "eğitim",
+            "anlam": "Okuyan kişinin yolu ışıklı olur."
+        },
+        {
+            "metin": "Ödünç güle güle gider, ağlaya ağlaya gelir.",
+            "kategori": "borç",
+            "anlam": "Borç almak kolay, ödemek zordur."
+        },
+        {
+            "metin": "Öfke baldan tatlıdır.",
+            "kategori": "davranış",
+            "anlam": "Öfke insanı kör eder."
+        },
+        {
+            "metin": "Öfke ile kalkan zararla oturur.",
+            "kategori": "davranış",
+            "anlam": "Öfkeyle hareket eden zarar görür."
+        },
+        {
+            "metin": "Öküz altında buzağı aramak.",
+            "kategori": "davranış",
+            "anlam": "Olmadık yerde bir şey aramak."
+        },
+        {
+            "metin": "Öküz öldü, ortaklık bozuldu.",
+            "kategori": "ortaklık",
+            "anlam": "Ortaklık malı yok olunca ortaklık bozulur."
+        },
+        {
+            "metin": "Öksüz çocuk göbeğini kendi keser.",
+            "kategori": "bağımsızlık",
+            "anlam": "Kimsesiz kişi kendi işini kendisi görür."
+        },
+        {
+            "metin": "Öksüz oğlan göbeğini kendi keser.",
+            "kategori": "bağımsızlık",
+            "anlam": "Kimsesiz kişi kendi işini kendisi görür."
+        },
+        {
+            "metin": "Ölçüyü kaçırmak.",
+            "kategori": "davranış",
+            "anlam": "Aşırıya kaçmak."
+        },
+        {
+            "metin": "Ölüm var, dirim var.",
+            "kategori": "hayat",
+            "anlam": "Hayatta her şey olabilir."
+        },
+        {
+            "metin": "Ölümü gören hastalığa razı olur.",
+            "kategori": "hayat",
+            "anlam": "Büyük tehlikeyi gören küçük tehlikeye razı olur."
+        },
+        {
+            "metin": "Önce düşün, sonra söyle.",
+            "kategori": "davranış",
+            "anlam": "Konuşmadan önce düşünmek gerekir."
+        },
+        {
+            "metin": "Önce iğneyi kendine batır.",
+            "kategori": "davranış",
+            "anlam": "Önce kendini eleştir."
+        },
+        {
+            "metin": "Önce kendi evinin önünü süpür.",
+            "kategori": "davranış",
+            "anlam": "Önce kendi işini düzelt."
+        },
+        {
+            "metin": "Önce kendi yüzüne bak.",
+            "kategori": "davranış",
+            "anlam": "Önce kendini düzelt."
+        },
+        {
+            "metin": "Önce kendi yüzüne bak, sonra başkasının yüzüne.",
+            "kategori": "davranış",
+            "anlam": "Önce kendini düzelt, sonra başkalarını eleştir."
+        },
+        {
+            "metin": "Önüne gelenle yatıp kalkma.",
+            "kategori": "davranış",
+            "anlam": "Herkesle samimi olma."
+        },
+        {
+            "metin": "Öpülecek el ısırılmaz.",
+            "kategori": "saygı",
+            "anlam": "Saygı gösterilmesi gereken kişiye saygısızlık yapılmaz."
+        },
+        {
+            "metin": "Ördek suda, güneşte kuru.",
+            "kategori": "davranış",
+            "anlam": "Her şeyin bir yolu vardır."
+        },
+        {
+            "metin": "Örümcek ağına düşmek.",
+            "kategori": "davranış",
+            "anlam": "Tuzaklara düşmek."
+        },
+        {
+            "metin": "Öz ağlamayınca göz ağlamaz.",
+            "kategori": "duygu",
+            "anlam": "İnsan kendi derdini kendisi çeker."
+        },
+        {
+            "metin": "Özür dilemek, yapılan hatayı düzeltmez.",
+            "kategori": "davranış",
+            "anlam": "Özür dilemek hatayı geri almaz."
+        },
+        {
+            "metin": "Özürsüz yalan olmaz.",
+            "kategori": "davranış",
+            "anlam": "Her yalanın bir sebebi vardır."
+        },
+        {
+            "metin": "Özürsüz yalan söyleyen, yalansız özür diler.",
+            "kategori": "davranış",
+            "anlam": "Yalan söyleyen kişi özür dilerken de yalan söyler."
+        },
+        {
+            "metin": "Pabuç bırakmamak.",
+            "kategori": "davranış",
+            "anlam": "Birinin peşini bırakmamak."
+        },
+        {
+            "metin": "Pabuç pahalı, çarık pahalı, eve girer aşık.",
+            "kategori": "aşk",
+            "anlam": "Aşk her şeyi unutturur."
+        },
+        {
+            "metin": "Pahalıya alınan ucuz olmaz.",
+            "kategori": "değer",
+            "anlam": "Bir şeyin değeri ödediğinle ölçülür."
+        },
+        {
+            "metin": "Palamut çok olursa kış sert geçer.",
+            "kategori": "doğa",
+            "anlam": "Doğadaki işaretler mevsimi gösterir."
+        },
+        {
+            "metin": "Parayı veren düdüğü çalar.",
+            "kategori": "değer",
+            "anlam": "Bir şeyin karşılığını ödeyen istediğini alır."
+        },
+        {
+            "metin": "Parmakla gösterilen değil, akılla seçilen makbuldür.",
+            "kategori": "bilgelik",
+            "anlam": "Görüntüye değil akla önem verilmeli."
+        },
+        {
+            "metin": "Patlayan mısır tencerede kalmaz.",
+            "kategori": "davranış",
+            "anlam": "Gizli işler ortaya çıkar."
+        },
+        {
+            "metin": "Pekmez tatlıdır ama sineği başına toplar.",
+            "kategori": "değer",
+            "anlam": "İyi şeyler bazen sorun da getirir."
+        },
+        {
+            "metin": "Pencereyi açık bırakan, rüzgara kızmaz.",
+            "kategori": "sorumluluk",
+            "anlam": "Kendi hatasının sonucuna katlanmak gerekir."
+        },
+        {
+            "metin": "Perşembenin gelişi çarşambadan bellidir.",
+            "kategori": "öngörü",
+            "anlam": "Bir işin sonucu önceden anlaşılır."
+        },
+        {
+            "metin": "Pireyi deve yapmak.",
+            "kategori": "abartı",
+            "anlam": "Küçük bir olayı büyütmek."
+        },
+        {
+            "metin": "Pişmiş aşa su katılmaz.",
+            "kategori": "davranış",
+            "anlam": "Bitmiş işe müdahale edilmez."
+        },
+        {
+            "metin": "Rabbena hep bana diyenin yüzü kara çıkar.",
+            "kategori": "bencillik",
+            "anlam": "Sürekli kendini düşünen sonunda zarar görür."
+        },
+        {
+            "metin": "Rahat batanda huzur aranmaz.",
+            "kategori": "davranış",
+            "anlam": "Elindekinin kıymetini bilmeyen huzur bulamaz."
+        },
+        {
+            "metin": "Rahatı kaçanın gözüne uyku girmez.",
+            "kategori": "hayat",
+            "anlam": "Sıkıntısı olan huzur bulamaz."
+        },
+        {
+            "metin": "Rast gele balık oltaya takılmaz.",
+            "kategori": "şans",
+            "anlam": "Şans her zaman herkese gülmez."
+        },
+        {
+            "metin": "Renk körü çiçek beğenmez.",
+            "kategori": "anlayış",
+            "anlam": "Anlayışı olmayan güzelliği göremez."
+        },
+        {
+            "metin": "Rüzgar eken fırtına biçer.",
+            "kategori": "davranış",
+            "anlam": "Kötülük yapan daha büyük kötülükle karşılaşır."
+        },
+        {
+            "metin": "Rüzgarın önünde yaprak savrulur.",
+            "kategori": "durum",
+            "anlam": "Güçsüz olan, güçlüye uymak zorunda kalır."
+        },
+        {
+            "metin": "Rızkı veren Allah'tır.",
+            "kategori": "inanç",
+            "anlam": "Rızık Allah'tan gelir."
+        },
+        {
+            "metin": "Rızkı veren Allah, kulunu aç koymaz.",
+            "kategori": "inanç",
+            "anlam": "Allah herkese rızkını verir."
+        },
+        {
+            "metin": "Rızkın onda dokuzu ticarettedir.",
+            "kategori": "çalışma",
+            "anlam": "Çalışan ve ticaret yapan çok kazanır."
+        },
+        {
+            "metin": "Rızkı arayan rızkını bulur.",
+            "kategori": "çalışma",
+            "anlam": "Çalışan kişi rızkını bulur."
+        },
+        {
+            "metin": "Rızkı veren Allah, yerini de gösterir.",
+            "kategori": "inanç",
+            "anlam": "Allah hem rızık verir hem de yolunu gösterir."
+        },
+        {
+            "metin": "Rüzgar ne yandan eserse essin, yelkeni ona göre açmak gerek.",
+            "kategori": "uyum",
+            "anlam": "Şartlara göre hareket etmek gerekir."
+        },
+        {
+            "metin": "Renk renk çiçekler bir arada güzel olur.",
+            "kategori": "birlik",
+            "anlam": "Farklılıklar bir arada güzellik oluşturur."
+        },
+        {
+            "metin": "Rızkı az olanın gözü tok olur.",
+            "kategori": "kanaat",
+            "anlam": "Azla yetinen kişi mutlu olur."
+        },
+        {
+            "metin": "Rızkı bol olanın gönlü de geniş olur.",
+            "kategori": "kanaat",
+            "anlam": "Çok rızkı olan cömert olur."
+        },
+        {
+            "metin": "Renkli taşlar bir arada güzel görünür.",
+            "kategori": "birlik",
+            "anlam": "Farklılıklar bir arada güzellik oluşturur."
+        },
+        {
+            "metin": "Rüzgarın önünde eğilen baş, fırtınada kırılmaz.",
+            "kategori": "uyum",
+            "anlam": "Zor durumda uyum sağlayan zarar görmez."
+        },
+        {
+            "metin": "Rahatı seven zahmete katlanmaz.",
+            "kategori": "çalışma",
+            "anlam": "Rahatına düşkün olan çalışmaz."
+        },
+        {
+            "metin": "Rızkı çok olanın dostu da çok olur.",
+            "kategori": "hayat",
+            "anlam": "Zengin kişinin çevresi kalabalık olur."
+        },
+        {
+            "metin": "Rızkı az olanın duası çok olur.",
+            "kategori": "inanç",
+            "anlam": "Azla yetinen kişi Allah'a daha çok dua eder."
+        },
+        {
+            "metin": "Renkli çiçekler baharı müjdeler.",
+            "kategori": "doğa",
+            "anlam": "Farklılıklar güzellik getirir."
+        },
+        {
+            "metin": "Rüzgarın önünde savrulan yaprak, kökünü arar.",
+            "kategori": "hayat",
+            "anlam": "Köksüz olan kişi savrulur."
+        },
+        {
+            "metin": "Rahatı kaçanın huzuru da kaçar.",
+            "kategori": "hayat",
+            "anlam": "Sıkıntısı olan huzur bulamaz."
+        },
+        {
+            "metin": "Rızkı dar olanın gönlü de dardır.",
+            "kategori": "kanaat",
+            "anlam": "Azla yetinmeyen kişi mutsuz olur."
+        },
+        {
+            "metin": "Rızkı veren Allah, kulu aç koymaz.",
+            "kategori": "inanç",
+            "anlam": "Allah herkese rızkını verir."
+        },
+        {
+            "metin": "Renkli kelebekler çiçekleri süsler.",
+            "kategori": "doğa",
+            "anlam": "Farklılıklar güzellik katar."
+        },
+        {
+            "metin": "Rüzgarın önünde eğilen ağaç, fırtınada devrilmez.",
+            "kategori": "uyum",
+            "anlam": "Zor durumda uyum sağlayan zarar görmez."
+        },
+        {
+            "metin": "Rahatı seven, zahmete katlanmaz.",
+            "kategori": "çalışma",
+            "anlam": "Rahatına düşkün olan çalışmaz."
+        },
+        {
+            "metin": "Rızkı bol olanın sofrası da boldur.",
+            "kategori": "hayat",
+            "anlam": "Zengin kişinin sofrası da zengin olur."
+        },
+        {
+            "metin": "Sakla samanı, gelir zamanı.",
+            "kategori": "tasarruf",
+            "anlam": "Gereksiz görülen şeyin bile zamanı gelir."
+        },
+        {
+            "metin": "Sakla dostunu, düşmanını da unutma.",
+            "kategori": "ilişki",
+            "anlam": "Dostu da düşmanı da akılda tutmak gerekir."
+        },
+        {
+            "metin": "Sakla başını, saklasınlar seni.",
+            "kategori": "güvenlik",
+            "anlam": "Kendini koruyan zarar görmez."
+        },
+        {
+            "metin": "Sakınan göze çöp batar.",
+            "kategori": "kader",
+            "anlam": "Çok dikkat eden de bazen zarar görebilir."
+        },
+        {
+            "metin": "Sana taş atanı ekmekle karşıla.",
+            "kategori": "iyilik",
+            "anlam": "Kötülüğe iyilikle karşılık ver."
+        },
+        {
+            "metin": "Sanat altın bileziktir.",
+            "kategori": "değer",
+            "anlam": "Sanat ve zanaat her zaman değerlidir."
+        },
+        {
+            "metin": "Sarı çiçek erken solar.",
+            "kategori": "hayat",
+            "anlam": "Güzel şeyler çabuk biter."
+        },
+        {
+            "metin": "Saz çalanın sözü kısa olur.",
+            "kategori": "iletişim",
+            "anlam": "İşiyle meşgul olan çok konuşmaz."
+        },
+        {
+            "metin": "Sebepsiz kuş uçmaz.",
+            "kategori": "neden",
+            "anlam": "Her şeyin bir nedeni vardır."
+        },
+        {
+            "metin": "Sel gider, kum kalır.",
+            "kategori": "hayat",
+            "anlam": "Olaylar geçer, izleri kalır."
+        },
+        {
+            "metin": "Serin gelen yaz, sıcak kış getirir.",
+            "kategori": "doğa",
+            "anlam": "Yaz serin geçerse kış sert olur."
+        },
+        {
+            "metin": "Seyrek giden dost, unutulmaz.",
+            "kategori": "dostluk",
+            "anlam": "Nadiren görülen dost unutulmaz."
+        },
+        {
+            "metin": "Sıcak taşta ot bitmez.",
+            "kategori": "doğa",
+            "anlam": "Elverişsiz ortamda başarı olmaz."
+        },
+        {
+            "metin": "Sıcak söz, buzları eritir.",
+            "kategori": "iletişim",
+            "anlam": "Güzel söz, kırgınlıkları giderir."
+        },
+        {
+            "metin": "Sır saklamayan, dost bulamaz.",
+            "kategori": "dostluk",
+            "anlam": "Sır tutmayan kişi dost edinemez."
+        },
+        {
+            "metin": "Sırça köşkte oturan, başkasına taş atmaz.",
+            "kategori": "davranış",
+            "anlam": "Kendisi kusurlu olan başkasını eleştirmemeli."
+        },
+        {
+            "metin": "Sinek küçüktür ama mide bulandırır.",
+            "kategori": "değer",
+            "anlam": "Küçük şeyler de rahatsızlık verebilir."
+        },
+        {
+            "metin": "Sinekten yağ çıkaran cimri olur.",
+            "kategori": "cimrilik",
+            "anlam": "Aşırı tutumlu kişi en küçük şeyden bile fayda sağlar."
+        },
+        {
+            "metin": "Sinsinin dostluğu, yılanın sokmasından beterdir.",
+            "kategori": "dostluk",
+            "anlam": "İkiyüzlü dost, açık düşmandan daha zararlıdır."
+        },
+        {
+            "metin": "Sofrada tuz eksik olmaz.",
+            "kategori": "gelenek",
+            "anlam": "Her sofrada mutlaka tuz bulunur."
+        },
+        {
+            "metin": "Söz gümüşse, sükût altındır.",
+            "kategori": "iletişim",
+            "anlam": "Konuşmak iyidir ama susmak daha iyidir."
+        },
+        {
+            "metin": "Söz uçar, yazı kalır.",
+            "kategori": "iletişim",
+            "anlam": "Söz unutulur, yazı kalıcıdır."
+        },
+        {
+            "metin": "Söz ağızdan çıkar, kulaktan girer.",
+            "kategori": "iletişim",
+            "anlam": "Söz söylendiğinde yayılır."
+        },
+        {
+            "metin": "Söz var iş bitirir, söz var baş yitirir.",
+            "kategori": "iletişim",
+            "anlam": "Sözün gücü büyüktür."
+        },
+        {
+            "metin": "Sözünü bilmeyen, başını ağrıtır.",
+            "kategori": "iletişim",
+            "anlam": "Düşünmeden konuşan zarar görür."
+        },
+        {
+            "metin": "Şafak sökmeden gün doğmaz.",
+            "kategori": "zaman",
+            "anlam": "Her şeyin bir vakti vardır."
+        },
+        {
+            "metin": "Şahin bakışıyla serçeyi ürkütme.",
+            "kategori": "davranış",
+            "anlam": "Güçlü olan zayıfı korkutmamalı."
+        },
+        {
+            "metin": "Şaka şakadan doğar, gerçek olur.",
+            "kategori": "iletişim",
+            "anlam": "Şaka bazen gerçeğe dönüşür."
+        },
+        {
+            "metin": "Şalvarı şaltak Osman, bunun adı hüsran.",
+            "kategori": "hayat",
+            "anlam": "Düzensiz işin sonu hüsrandır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu sönük yanar.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi zor olur."
+        },
+        {
+            "metin": "Şans kapıyı bir kere çalar.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka düştü kel göründü.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıktı."
+        },
+        {
+            "metin": "Şarap içen sarhoş olur, söz dinleyen arif.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar zarar verir, iyi alışkanlıklar fayda sağlar."
+        },
+        {
+            "metin": "Şaşkın ördek başını suya sokar.",
+            "kategori": "davranış",
+            "anlam": "Tecrübesiz kişi yanlış yapar."
+        },
+        {
+            "metin": "Şeytan ayrıntıda gizlidir.",
+            "kategori": "detay",
+            "anlam": "Küçük ayrıntılar büyük sorunlara yol açabilir."
+        },
+        {
+            "metin": "Şahin gözüyle bakan, serçeyi göremez.",
+            "kategori": "bakış açısı",
+            "anlam": "Büyük şeylere odaklanan küçükleri göremez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Hazırlıksız olan zor durumda kalır."
+        },
+        {
+            "metin": "Şamdanı olmayanın mumu çabuk söner.",
+            "kategori": "değer",
+            "anlam": "Desteksiz olanın işi uzun sürmez."
+        },
+        {
+            "metin": "Şans bir kere güler.",
+            "kategori": "şans",
+            "anlam": "Fırsatlar nadiren gelir."
+        },
+        {
+            "metin": "Şapka yere düşünce kel görünür.",
+            "kategori": "gerçek",
+            "anlam": "Gerçekler ortaya çıkar."
+        },
+        {
+            "metin": "Şarap içenin aklı başında olmaz.",
+            "kategori": "davranış",
+            "anlam": "Kötü alışkanlıklar aklı baştan alır."
+        },
+        {
+            "metin": "Şaşkın balık akıntıya kapılır.",
+            "kategori": "tecrübe",
+            "anlam": "Tecrübesiz kişi kolayca yönünü kaybeder."
+        },
+        {
+            "metin": "Şeytan boşlukta gezer.",
+            "kategori": "davranış",
+            "anlam": "Boş kalan kişi yanlış işler yapar."
+        },
+        {
+            "metin": "Şahin küçük et yer, büyük lokma yutmaz.",
+            "kategori": "davranış",
+            "anlam": "Güçlü kişi küçük işlerle yetinmez."
+        },
+        {
+            "metin": "Şairin sözü, gönlün özü.",
+            "kategori": "edebiyat",
+            "anlam": "Şairin sözleri duyguların özüdür."
+        },
+        {
+            "metin": "Şaka ile karışık, gerçek ortaya çıkar.",
+            "kategori": "iletişim",
+            "anlam": "Şaka yaparken gerçekler söylenir."
+        },
+        {
+            "metin": "Şalvarı kısa olan, yağmura yakalanır.",
+            "kategori": "hazırlık",
+            "anlam": "Yorgun kişiye kısa ve öz konuşmak iyi gelir."
+        },
+        {
+            "metin": "Umut fakirin ekmeğidir.",
+            "kategori": "umut",
+            "anlam": "Fakir insan hayata umutla tutunur."
+        },
+        {
+            "metin": "Ulu çam devrilse de gölgesi kalır.",
+            "kategori": "güç",
+            "anlam": "Büyük insanların etkisi uzun süre devam eder."
+        },
+        {
+            "metin": "Usta çırakla, çırak iş ile öğrenir.",
+            "kategori": "eğitim",
+            "anlam": "İş öğrenmek için ustadan ve uygulamadan faydalanılır."
+        },
+        {
+            "metin": "Uzak dağdan yakın odun gelmez.",
+            "kategori": "pratiklik",
+            "anlam": "Uzakta olan şeyden hemen fayda sağlanmaz."
+        },
+        {
+            "metin": "Uyuyan aslan avlanmaz.",
+            "kategori": "çalışma",
+            "anlam": "Çalışmayan kişi başarıya ulaşamaz."
+        },
+        {
+            "metin": "Umut eden muradına erer.",
+            "kategori": "umut",
+            "anlam": "Umudunu kaybetmeyen kişi sonunda amacına ulaşır."
+        },
+        {
+            "metin": "Usta işi, göz nuru ister.",
+            "kategori": "emek",
+            "anlam": "İyi iş emek ve dikkat gerektirir."
+        },
+        {
+            "metin": "Uzak köyün imamı geç gelir.",
+            "kategori": "zamanlama",
+            "anlam": "Uzakta olan şey zamanında yetişmez."
+        },
+        {
+            "metin": "Uyanık tilki, avını kaçırmaz.",
+            "kategori": "zeka",
+            "anlam": "Dikkatli ve zeki olan fırsatları kaçırmaz."
+        },
+        {
+            "metin": "Uğraşan el, nasibini alır.",
+            "kategori": "çalışma",
+            "anlam": "Çalışan kişi emeğinin karşılığını alır."
+        },
+        {
+            "metin": "Uğrunda ölen varsa vatandır.",
+            "kategori": "vatan",
+            "anlam": "Bir yer uğruna can veriliyorsa gerçek vatandır."
+        },
+        {
+            "metin": "Usta terzi kendi söküğünü dikemezmiş.",
+            "kategori": "emek",
+            "anlam": "Kişi başkasının işini yaparken kendi işini ihmal edebilir."
+        },
+        {
+            "metin": "Uzakta arama, yakınında ara.",
+            "kategori": "pratiklik",
+            "anlam": "Çözüm çoğu zaman yakındadır."
+        },
+        {
+            "metin": "Umut kapısı kapanmaz.",
+            "kategori": "umut",
+            "anlam": "İnsan hayatta olduğu sürece umut vardır."
+        },
+        {
+            "metin": "Uyuyan köpekten korkma, uyanıktan kork.",
+            "kategori": "tehlike",
+            "anlam": "Tehlike, harekete geçmiş olandan gelir."
+        },
+        {
+            "metin": "Uzun yol, kısa yol, sonunda bir yol.",
+            "kategori": "hayat",
+            "anlam": "Her yolun bir sonu vardır."
+        },
+        {
+            "metin": "Uzun yaşayan değil, çok yaşayan bilir.",
+            "kategori": "tecrübe",
+            "anlam": "Yaşamak değil, yaşamı dolu dolu yaşamak önemlidir."
+        },
+        {
+            "metin": "Uzun sözün kısası, kısa sözün uzunu olmaz.",
+            "kategori": "iletişim",
+            "anlam": "Sözü kısa ve öz söylemek gerekir."
+        },
+        {
+            "metin": "Uzun yaşamak için, kısa yaşamak gerek.",
+            "kategori": "hayat",
+            "anlam": "Uzun yaşamak için sağlıklı yaşamak gerekir."
+        },
+        {
+            "metin": "Uzun yolun sonu, kısa yolun başı olur.",
+            "kategori": "hayat",
+            "anlam": "Her yolun bir sonu vardır."
+        },
+        {
+            "metin": "Üç gözlü koyun, iki gözlü koyundan iyidir",
+            "kategori": "bilgelik",
+            "anlam": "Tecrübeli olan, tecrübesiz olandan daha iyidir."
+        },
+        {
+            "metin": "Üç kuruşluk eşeğin yedi kuruşluk sıpası olur",
+            "kategori": "hayat",
+            "anlam": "Değersiz şeylerden değerli sonuçlar çıkabilir."
+        },
+        {
+            "metin": "Üç ölç, bir biç",
+            "kategori": "davranış",
+            "anlam": "Bir işi yapmadan önce iyi düşünmek gerekir."
+        },
+        {
+            "metin": "Üç taş bir duvar olur",
+            "kategori": "birlik",
+            "anlam": "Küçük güçler bir araya gelince büyük işler başarır."
+        },
+        {
+            "metin": "Üzüm üzüme baka baka kararır",
+            "kategori": "davranış",
+            "anlam": "İnsanlar birbirlerinden etkilenir, kötü alışkanlıklar bulaşıcıdır."
+        },
+        {
+            "metin": "Üzümün çöpü var, armudun sapı var",
+            "kategori": "hayat",
+            "anlam": "Her şeyin bir kusuru vardır."
+        },
+        {
+            "metin": "Üzümünü ye, bağını sorma",
+            "kategori": "davranış",
+            "anlam": "Faydalandığın şeyin kaynağını sorma."
+        },
+        {
+            "metin": "Üç günlük dünya",
+            "kategori": "hayat",
+            "anlam": "Dünya geçicidir, her şey değişir."
+        },
+        {
+            "metin": "Üç kuruşluk işe beş kuruşluk masraf etme",
+            "kategori": "tutumluluk",
+            "anlam": "İşin değerinden fazla harcama yapma."
+        },
+        {
+            "metin": "Üç gözünü aç, dört gözle bak",
+            "kategori": "dikkat",
+            "anlam": "Çok dikkatli olmak gerekir."
+        },
+        {
+            "metin": "Ümit fakirin ekmeğidir",
+            "kategori": "umut",
+            "anlam": "Fakir insan hayata umutla tutunur."
+        },
+        {
+            "metin": "Üstü açık kalan iş, yarım kalır",
+            "kategori": "iş",
+            "anlam": "Her iş tam ve düzgün yapılmalıdır."
+        },
+        {
+            "metin": "Üzüm dalında olgunlaşır",
+            "kategori": "sabır",
+            "anlam": "Her şey zamanla ve sabırla olur."
+        },
+        {
+            "metin": "Üstüne vazife olmayan işe karışma",
+            "kategori": "davranış",
+            "anlam": "Kişi kendi işine bakmalı, başkasının işine karışmamalı."
+        },
+        {
+            "metin": "Üşüyen, ateşi başkasında arar",
+            "kategori": "hayat",
+            "anlam": "İhtiyacı olan, çözümü başkasında arar."
+        },
+        {
+            "metin": "Üstü kapalı söz, muhatabını bulmaz",
+            "kategori": "iletişim",
+            "anlam": "Açık konuşmayanın sözü anlaşılmaz."
+        },
+        {
+            "metin": "Üzüm üzüme baka baka kararır",
+            "kategori": "davranış",
+            "anlam": "İnsanlar birbirlerinden etkilenir."
+        },
+        {
+            "metin": "Üstü temiz olanın içi de temiz olur",
+            "kategori": "ahlak",
+            "anlam": "Dış görünüş, iç dünyayı yansıtabilir."
+        },
+        {
+            "metin": "Üşüyen, güneşi pencerede arar",
+            "kategori": "hayat",
+            "anlam": "İhtiyacı olan, çözümü kolay yoldan arar."
+        },
+        {
+            "metin": "Üç kişi bir araya gelirse, biri mutlaka yol gösterir",
+            "kategori": "birlik",
+            "anlam": "Birlikte hareket edenler çözüm bulur."
+        },
+        {
+            "metin": "Üşüyen gölgeyle ısınmaz",
+            "kategori": "hayat",
+            "anlam": "Gerçek çözüm, geçici olandan gelmez."
+        },
+        {
+            "metin": "Üzgün gönül neşeyle dolmaz",
+            "kategori": "duygu",
+            "anlam": "Kederli insan kolayca mutlu olamaz."
+        },
+        {
+            "metin": "Ümit ekilmeden, hasat beklenmez",
+            "kategori": "umut",
+            "anlam": "Emek vermeden sonuç beklenmez."
+        },
+        {
+            "metin": "Üstüne düşmeyen iş, yarım kalır",
+            "kategori": "çalışma",
+            "anlam": "İlgilenilmeyen iş tamamlanmaz."
+        },
+        {
+            "metin": "Üzüm dalında güzeldir",
+            "kategori": "değer",
+            "anlam": "Her şey yerinde ve zamanında değerlidir."
+        },
+        {
+            "metin": "Vakit nakittir, boşa harcanmaz",
+            "kategori": "zaman",
+            "anlam": "Zaman çok değerlidir, iyi değerlendirilmelidir."
+        },
+        {
+            "metin": "Varlıkta dost çok, yoklukta öz çok",
+            "kategori": "hayat",
+            "anlam": "Zenginlikte çevre kalabalık olur, yoklukta ise gerçek dostlar belli olur."
+        },
+        {
+            "metin": "Vefa, eski dostta aranır",
+            "kategori": "dostluk",
+            "anlam": "Sadakat ve bağlılık en çok eski dostlarda bulunur."
+        },
+        {
+            "metin": "Varlıkla övünen, yoklukla sınanır",
+            "kategori": "hayat",
+            "anlam": "Kendini malıyla öven, bir gün yoklukla karşılaşabilir."
+        },
+        {
+            "metin": "Vakitli gelen, yolunu bulur",
+            "kategori": "zamanlama",
+            "anlam": "Zamanında hareket eden, işini kolayca halleder."
+        },
+        {
+            "metin": "Varlıkta kibir, yoklukta sabır gerek",
+            "kategori": "ahlak",
+            "anlam": "Zenginlikte alçakgönüllü, yoklukta sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Vazgeçen, yolunu kısaltır",
+            "kategori": "karar",
+            "anlam": "Gereksiz ısrardan vazgeçmek, işleri kolaylaştırır."
+        },
+        {
+            "metin": "Varlık göze, yokluk söze gelir",
+            "kategori": "hayat",
+            "anlam": "Zenginlikte insanlar görünüşe, yoklukta ise söze bakar."
+        },
+        {
+            "metin": "Vefa unutulmaz, vefasız affedilmez",
+            "kategori": "ahlak",
+            "anlam": "Sadakat unutulmaz, vefasızlık ise bağışlanmaz."
+        },
+        {
+            "metin": "Vakitli iş, bereketli iş",
+            "kategori": "zaman",
+            "anlam": "Zamanında yapılan iş, daha verimli olur."
+        },
+        {
+            "metin": "Vakit varken yolunu seç",
+            "kategori": "zamanlama",
+            "anlam": "Doğru kararlar zamanında verilmelidir."
+        },
+        {
+            "metin": "Vefa gölgesi uzun olur",
+            "kategori": "dostluk",
+            "anlam": "Sadakat ve iyilik uzun süre unutulmaz."
+        },
+        {
+            "metin": "Varlıkla övünen, vicdanla sınanır",
+            "kategori": "ahlak",
+            "anlam": "Kendini malıyla öven, bir gün vicdanıyla yüzleşir."
+        },
+        {
+            "metin": "Vazgeçilen yük hafif taşınır",
+            "kategori": "hayat",
+            "anlam": "Gereksiz yüklerden kurtulmak hayatı kolaylaştırır."
+        },
+        {
+            "metin": "Varlıkta paylaş, yoklukta dayan",
+            "kategori": "ahlak",
+            "anlam": "Zenginlikte cömert, yoklukta sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Vakitli söz, gönülde iz bırakır",
+            "kategori": "iletişim",
+            "anlam": "Zamanında söylenen söz, kalıcı etki bırakır."
+        },
+        {
+            "metin": "Vefa unutulmaz, vefasız unutulur",
+            "kategori": "dostluk",
+            "anlam": "Sadakat hatırlanır, vefasızlık ise unutulur."
+        },
+        {
+            "metin": "Varlıkta dost, yoklukta sırdaş aranır",
+            "kategori": "hayat",
+            "anlam": "Zenginlikte dost, yoklukta ise sırdaş önemlidir."
+        },
+        {
+            "metin": "Vazgeçmek, bazen en büyük kazançtır",
+            "kategori": "karar",
+            "anlam": "Bazen bırakmak, ilerlemekten daha faydalı olur."
+        },
+        {
+            "metin": "Vakit geçince pişmanlık fayda etmez",
+            "kategori": "zaman",
+            "anlam": "Zamanı geçtikten sonra yapılan pişmanlık bir işe yaramaz."
+        },
+        {
+            "metin": "Varlıkta paylaşmak, yoklukta dayanmaktır",
+            "kategori": "ahlak",
+            "anlam": "Zenginlikte cömert olmak, yoklukta sabırlı olmayı sağlar."
+        },
+        {
+            "metin": "Vakitli söz, gönülde iz bırakır",
+            "kategori": "iletişim",
+            "anlam": "Zamanında söylenen söz, kalıcı etki bırakır."
+        },
+        {
+            "metin": "Vefa unutulmaz, vefasız unutulur",
+            "kategori": "dostluk",
+            "anlam": "Sadakat hatırlanır, vefasızlık ise unutulur."
+        },
+        {
+            "metin": "Varlıkta dost, yoklukta sırdaş aranır",
+            "kategori": "hayat",
+            "anlam": "Zenginlikte dost, yoklukta ise sırdaş önemlidir."
+        },
+        {
+            "metin": "Vazgeçmek, bazen en büyük kazançtır",
+            "kategori": "karar",
+            "anlam": "Bazen bırakmak, ilerlemekten daha faydalı olur."
+        },
+        {
+            "metin": "Vakit geçince pişmanlık fayda etmez",
+            "kategori": "zaman",
+            "anlam": "Zamanı geçtikten sonra yapılan pişmanlık bir işe yaramaz."
+        },
+        {
+            "metin": "Varlıkta paylaş, yoklukta dayan",
+            "kategori": "ahlak",
+            "anlam": "Zenginlikte cömert, yoklukta sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Vakitli söz, gönülde iz bırakır",
+            "kategori": "iletişim",
+            "anlam": "Zamanında söylenen söz, kalıcı etki bırakır."
+        },
+        {
+            "metin": "Vefa unutulmaz, vefasız unutulur",
+            "kategori": "dostluk",
+            "anlam": "Sadakat hatırlanır, vefasızlık ise unutulur."
+        },
+        {
+            "metin": "Varlıkta dost, yoklukta sırdaş aranır",
+            "kategori": "hayat",
+            "anlam": "Zenginlikte dost, yoklukta ise sırdaş önemlidir."
+        },
+        {
+            "metin": "Yalnız ağaç, rüzgara dayanamaz",
+            "kategori": "birlik",
+            "anlam": "Tek başına olan kişi zorluklara karşı dayanıksız olur."
+        },
+        {
+            "metin": "Yarın yapılacak işi bugüne bırakma",
+            "kategori": "zaman",
+            "anlam": "İşleri ertelemek yerine zamanında yapmak gerekir."
+        },
+        {
+            "metin": "Yol bilen, yolda kalmaz",
+            "kategori": "bilgelik",
+            "anlam": "Bilgili kişi zor durumda kalmaz."
+        },
+        {
+            "metin": "Yüreği temiz olanın sözü de temiz olur",
+            "kategori": "ahlak",
+            "anlam": "İyi niyetli kişinin sözleri de iyi olur."
+        },
+        {
+            "metin": "Yalnız kalan, yalnız kalır",
+            "kategori": "hayat",
+            "anlam": "İnsanlardan uzak duran, zamanla yalnızlaşır."
+        },
+        {
+            "metin": "Yarın için bugünü yaşa",
+            "kategori": "hayat",
+            "anlam": "Geleceği düşünürken bugünü de yaşamak gerekir."
+        },
+        {
+            "metin": "Yol uzun, sabır kısa olmaz",
+            "kategori": "sabır",
+            "anlam": "Uzun yolda sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Yüreği geniş olanın evi de geniş olur",
+            "kategori": "ahlak",
+            "anlam": "Cömert kişinin evi de misafirperver olur."
+        },
+        {
+            "metin": "Yalnız kurt, sürüye katılmaz",
+            "kategori": "bağımsızlık",
+            "anlam": "Bağımsız kişi başkalarına bağlı olmaz."
+        },
+        {
+            "metin": "Yarın için bugünü unutma",
+            "kategori": "planlama",
+            "anlam": "Geleceği düşünürken bugünü de ihmal etmemek gerekir."
+        },
+        {
+            "metin": "Yalnız yürüyen, yolda kalır",
+            "kategori": "birlik",
+            "anlam": "Tek başına hareket eden, zorluklarla karşılaşır."
+        },
+        {
+            "metin": "Yarın için bugünü yaşa",
+            "kategori": "hayat",
+            "anlam": "Geleceği düşünürken bugünü de yaşamak gerekir."
+        },
+        {
+            "metin": "Yol uzun, sabır kısa olmaz",
+            "kategori": "sabır",
+            "anlam": "Uzun yolda sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Yüreği geniş olanın evi de geniş olur",
+            "kategori": "ahlak",
+            "anlam": "Cömert kişinin evi de misafirperver olur."
+        },
+        {
+            "metin": "Yalnız kurt, sürüye katılmaz",
+            "kategori": "bağımsızlık",
+            "anlam": "Bağımsız kişi başkalarına bağlı olmaz."
+        },
+        {
+            "metin": "Yarın için bugünü unutma",
+            "kategori": "planlama",
+            "anlam": "Geleceği düşünürken bugünü de ihmal etmemek gerekir."
+        },
+        {
+            "metin": "Yalnız ağaç, rüzgara dayanamaz",
+            "kategori": "birlik",
+            "anlam": "Tek başına olan kişi zorluklara karşı dayanıksız olur."
+        },
+        {
+            "metin": "Yarın yapılacak işi bugüne bırakma",
+            "kategori": "zaman",
+            "anlam": "İşleri ertelemek yerine zamanında yapmak gerekir."
+        },
+        {
+            "metin": "Yol bilen, yolda kalmaz",
+            "kategori": "bilgelik",
+            "anlam": "Bilgili kişi zor durumda kalmaz."
+        },
+        {
+            "metin": "Yüreği temiz olanın sözü de temiz olur",
+            "kategori": "ahlak",
+            "anlam": "İyi niyetli kişinin sözleri de iyi olur."
+        },
+        {
+            "metin": "Yalnız yürüyen, yolda kalır",
+            "kategori": "birlik",
+            "anlam": "Tek başına hareket eden, zorluklarla karşılaşır."
+        },
+        {
+            "metin": "Yarın için bugünü yaşa",
+            "kategori": "hayat",
+            "anlam": "Geleceği düşünürken bugünü de yaşamak gerekir."
+        },
+        {
+            "metin": "Yol uzun, sabır kısa olmaz",
+            "kategori": "sabır",
+            "anlam": "Uzun yolda sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Yüreği geniş olanın evi de geniş olur",
+            "kategori": "ahlak",
+            "anlam": "Cömert kişinin evi de misafirperver olur."
+        },
+        {
+            "metin": "Yalnız kurt, sürüye katılmaz",
+            "kategori": "bağımsızlık",
+            "anlam": "Bağımsız kişi başkalarına bağlı olmaz."
+        },
+        {
+            "metin": "Yarın için bugünü unutma",
+            "kategori": "planlama",
+            "anlam": "Geleceği düşünürken bugünü de ihmal etmemek gerekir."
+        },
+        {
+            "metin": "Yalnız ağaç, rüzgara dayanamaz",
+            "kategori": "birlik",
+            "anlam": "Tek başına olan kişi zorluklara karşı dayanıksız olur."
+        },
+        {
+            "metin": "Yarın yapılacak işi bugüne bırakma",
+            "kategori": "zaman",
+            "anlam": "İşleri ertelemek yerine zamanında yapmak gerekir."
+        },
+        {
+            "metin": "Yol bilen, yolda kalmaz",
+            "kategori": "bilgelik",
+            "anlam": "Bilgili kişi zor durumda kalmaz."
+        },
+        {
+            "metin": "Yüreği temiz olanın sözü de temiz olur",
+            "kategori": "ahlak",
+            "anlam": "İyi niyetli kişinin sözleri de iyi olur."
+        },
+        {
+            "metin": "Zamanında yapılan iş, bereketli olur",
+            "kategori": "zaman",
+            "anlam": "İşler zamanında yapılırsa daha verimli olur."
+        },
+        {
+            "metin": "Zararın neresinden dönülse kardır",
+            "kategori": "bilgelik",
+            "anlam": "Kötü giden bir işten ne zaman vazgeçilse faydadır."
+        },
+        {
+            "metin": "Zenginlik göze, yokluk söze gelir",
+            "kategori": "hayat",
+            "anlam": "Zenginlikte görünüş, yoklukta söz önemlidir."
+        },
+        {
+            "metin": "Zorla güzellik olmaz",
+            "kategori": "davranış",
+            "anlam": "İstemeden yapılan iş güzel olmaz."
+        },
+        {
+            "metin": "Zaman her şeyin ilacıdır",
+            "kategori": "sabır",
+            "anlam": "Zaman her sorunu çözer."
+        },
+        {
+            "metin": "Zarar etmek, kazanmaktan öğreticidir",
+            "kategori": "tecrübe",
+            "anlam": "Kayıplar insana daha çok şey öğretir."
+        },
+        {
+            "metin": "Zenginlikte dost, yoklukta sırdaş aranır",
+            "kategori": "dostluk",
+            "anlam": "Zenginlikte çevre, yoklukta gerçek dostlar belli olur."
+        },
+        {
+            "metin": "Zor durumda kalan, çözümü de bulur",
+            "kategori": "azim",
+            "anlam": "Zorluklar insanı çözüm bulmaya iter."
+        },
+        {
+            "metin": "Zararın büyüğü, ders alınmayandır",
+            "kategori": "öğrenme",
+            "anlam": "En büyük kayıp, hatalardan ders çıkarılmamasıdır."
+        },
+        {
+            "metin": "Zenginlik göze, fakirlik yüreğe bakar",
+            "kategori": "ahlak",
+            "anlam": "Zenginlik dış görünüşe, fakirlik iç dünyaya bakar."
+        },
+        {
+            "metin": "Zor işin başı, kolay işin sonu olur",
+            "kategori": "çalışma",
+            "anlam": "Zor başlayan işler kolay biter."
+        },
+        {
+            "metin": "Zamanında ekilen tohum, meyve verir",
+            "kategori": "emek",
+            "anlam": "Zamanında yapılan iş sonuç verir."
+        },
+        {
+            "metin": "Zarar gören, zarar vermez",
+            "kategori": "tecrübe",
+            "anlam": "Acı çeken, başkasına acı vermez."
+        },
+        {
+            "metin": "Zenginlikte paylaşmak, yoklukta dayanmaktır",
+            "kategori": "cömertlik",
+            "anlam": "Zenginlikte cömert olmak, yoklukta sabırlı olmayı sağlar."
+        },
+        {
+            "metin": "Zor durumda kalan, yolu da bulur",
+            "kategori": "azim",
+            "anlam": "Zorluklar insanı çözüm bulmaya iter."
+        },
+        {
+            "metin": "Zamanında söylenen söz, gönülde iz bırakır",
+            "kategori": "iletişim",
+            "anlam": "Doğru zamanda söylenen söz etkili olur."
+        },
+        {
+            "metin": "Zararın küçüğü, kazancın büyüğüdür",
+            "kategori": "bilgelik",
+            "anlam": "Küçük kayıplar, büyük kazançlar getirir."
+        },
+        {
+            "metin": "Zenginlikte kibir, yoklukta sabır gerek",
+            "kategori": "ahlak",
+            "anlam": "Zenginlikte alçakgönüllü, yoklukta sabırlı olmak gerekir."
+        },
+        {
+            "metin": "Zor işin ustası, kolay işin çırağı olur",
+            "kategori": "öğrenme",
+            "anlam": "Zor işleri yapan, kolay işleri daha iyi yapar."
+        },
+        {
+            "metin": "Zamanında verilen öğüt, altın değerindedir",
+            "kategori": "bilgelik",
+            "anlam": "Doğru zamanda verilen tavsiye çok değerlidir."
+        },
+        {
+            "metin": "Zarar eden, kazanmayı da öğrenir",
+            "kategori": "tecrübe",
+            "anlam": "Kayıplar insana kazanmayı öğretir."
+        },
+        {
+            "metin": "Zenginlikte dost, yoklukta sırdaş aranır",
+            "kategori": "dostluk",
+            "anlam": "Zenginlikte çevre, yoklukta gerçek dostlar belli olur."
+        },
+        {
+            "metin": "Zor durumda kalan, çözümü de bulur",
+            "kategori": "azim",
+            "anlam": "Zorluklar insanı çözüm bulmaya iter."
+        },
+        {
+            "metin": "Zamanında atılan adım, yol alır",
+            "kategori": "planlama",
+            "anlam": "Doğru zamanda yapılan iş başarılı olur."
+        },
+        {
+            "metin": "Zararın büyüğü, ders alınmayandır",
+            "kategori": "öğrenme",
+            "anlam": "En büyük kayıp, hatalardan ders çıkarılmamasıdır."
+        },
+        {
+            "metin": "Zenginlik göze, fakirlik yüreğe bakar",
+            "kategori": "ahlak",
+            "anlam": "Zenginlik dış görünüşe, fakirlik iç dünyaya bakar."
+        },
+        {
+            "metin": "Zor işin başı, kolay işin sonu olur",
+            "kategori": "çalışma",
+            "anlam": "Zor başlayan işler kolay biter."
+        },
+        {
+            "metin": "Zamanında ekilen tohum, meyve verir",
+            "kategori": "emek",
+            "anlam": "Zamanında yapılan iş sonuç verir."
+        },
+        {
+            "metin": "Zarar gören, zarar vermez",
+            "kategori": "tecrübe",
+            "anlam": "Acı çeken, başkasına acı vermez."
+        },
+        {
+            "metin": "Zamanında verilen öğüt, altın değerindedir",
+            "kategori": "bilgelik",
+            "anlam": "Doğru zamanda verilen tavsiye çok değerlidir."
+        },
+        {
+            "metin": "Zarar eden, kazanmayı da öğrenir",
+            "kategori": "tecrübe",
+            "anlam": "Kayıplar insana kazanmayı öğretir."
+        },
+        {
+            "metin": "Zenginlikte dost, yoklukta sırdaş aranır",
+            "kategori": "dostluk",
+            "anlam": "Zenginlikte çevre, yoklukta gerçek dostlar belli olur."
+        },
+        {
+            "metin": "Zor durumda kalan, çözümü de bulur",
+            "kategori": "azim",
+            "anlam": "Zorluklar insanı çözüm bulmaya iter."
+        }
+    ]
+}
